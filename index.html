@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Travel reimbursement calculator</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 24px;
+      background: #f5f7fb;
+      color: #222;
+    }
+
+    .card {
+      max-width: 950px;
+      margin: 0 auto;
+      background: #fff;
+      border-radius: 14px;
+      padding: 24px;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+    }
+
+    h1 {
+      margin-top: 0;
+      margin-bottom: 8px;
+    }
+
+    .intro {
+      margin-top: 0;
+      color: #555;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+      margin-top: 20px;
+    }
+
+    .field {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .field.full {
+      grid-column: 1 / -1;
+    }
+
+    label {
+      font-weight: 700;
+    }
+
+    select,
+    input,
+    button {
+      padding: 12px;
+      font-size: 16px;
+      border: 1px solid #cfcfcf;
+      border-radius: 8px;
+      box-sizing: border-box;
+    }
+
+    button {
+      margin-top: 20px;
+      cursor: pointer;
+      font-weight: 700;
+    }
+
+    .result {
+      margin-top: 24px;
+      padding: 18px;
+      background: #eef5ff;
+      border-radius: 10px;
+      line-height: 1.7;
+      display: none;
+    }
+
+    .error {
+      background: #fff1f1;
+      color: #8a1f1f;
+    }
+
+    .section-title {
+      margin-top: 18px;
+      margin-bottom: 8px;
+      font-size: 18px;
+      font-weight: 700;
+    }
+
+    .total {
+      font-size: 22px;
+      font-weight: 700;
+    }
+
+    .muted {
+      color: #666;
+      font-size: 14px;
+    }
+
+    @media (max-width: 760px) {
+      .grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>Travel Reimbursement Calculator</h1>
+    <p class="intro">
+      Select origin and destination cities, then enter the number of persons and days.
+    </p>
+
+    <div class="grid">
+      <div class="field">
+        <label for="origin">City of origin</label>
+        <select id="origin">
+          <option value="">Loading cities...</option>
+        </select>
+      </div>
+
+      <div class="field">
+        <label for="destination">City of destination</label>
+        <select id="destination">
+          <option value="">Loading cities...</option>
+        </select>
+      </div>
+
+      <div class="field">
+        <label for="persons">Number of persons</label>
+        <input id="persons" type="number" min="1" value="1" />
+      </div>
+
+      <div class="field">
+        <label for="days">Number of days</label>
+        <input id="days" type="number" min="1" value="1" />
+      </div>
+    </div>
+
+    <button id="calculateBtn">Calculate reimbursement</button>
+
+    <div id="result" class="result"></div>
+  </div>
+
+  <script src="./app.js"></script>
+</body>
+</html>

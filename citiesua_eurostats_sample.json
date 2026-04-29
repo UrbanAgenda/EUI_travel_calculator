@@ -1,0 +1,5914 @@
+[
+  {
+    "id":"DE008C",
+    "city":"Leipzig",
+    "country_code":"DE",
+    "lat":51.350818,
+    "lon":12.389693,
+    "label":"Leipzig (DE)"
+  },
+  {
+    "id":"DE009C",
+    "city":"Dresden",
+    "country_code":"DE",
+    "lat":51.066448,
+    "lon":13.783483,
+    "label":"Dresden (DE)"
+  },
+  {
+    "id":"DE010C",
+    "city":"Dortmund",
+    "country_code":"DE",
+    "lat":51.516079,
+    "lon":7.474893,
+    "label":"Dortmund (DE)"
+  },
+  {
+    "id":"DE011C",
+    "city":"Düsseldorf",
+    "country_code":"DE",
+    "lat":51.235457,
+    "lon":6.810054,
+    "label":"Düsseldorf (DE)"
+  },
+  {
+    "id":"DE012C",
+    "city":"Bremen",
+    "country_code":"DE",
+    "lat":53.108644,
+    "lon":8.786043,
+    "label":"Bremen (DE)"
+  },
+  {
+    "id":"DE013C",
+    "city":"Hannover",
+    "country_code":"DE",
+    "lat":52.379494,
+    "lon":9.76968,
+    "label":"Hannover (DE)"
+  },
+  {
+    "id":"DE014C",
+    "city":"Nürnberg",
+    "country_code":"DE",
+    "lat":49.436394,
+    "lon":11.079253,
+    "label":"Nürnberg (DE)"
+  },
+  {
+    "id":"DE015C",
+    "city":"Bochum",
+    "country_code":"DE",
+    "lat":51.4699,
+    "lon":7.224961,
+    "label":"Bochum (DE)"
+  },
+  {
+    "id":"DE016C",
+    "city":"Bielefeld",
+    "country_code":"DE",
+    "lat":52.01098,
+    "lon":8.540791,
+    "label":"Bielefeld (DE)"
+  },
+  {
+    "id":"DE017C",
+    "city":"Halle an der Saale",
+    "country_code":"DE",
+    "lat":51.479823,
+    "lon":11.968477,
+    "label":"Halle an der Saale (DE)"
+  },
+  {
+    "id":"DE018C",
+    "city":"Magdeburg",
+    "country_code":"DE",
+    "lat":52.116505,
+    "lon":11.641304,
+    "label":"Magdeburg (DE)"
+  },
+  {
+    "id":"DE019C",
+    "city":"Wiesbaden",
+    "country_code":"DE",
+    "lat":50.079201,
+    "lon":8.260377,
+    "label":"Wiesbaden (DE)"
+  },
+  {
+    "id":"DE020C",
+    "city":"Göttingen",
+    "country_code":"DE",
+    "lat":51.543065,
+    "lon":9.931541,
+    "label":"Göttingen (DE)"
+  },
+  {
+    "id":"DE021C",
+    "city":"Mülheim a.d.Ruhr",
+    "country_code":"DE",
+    "lat":51.413767,
+    "lon":6.878469,
+    "label":"Mülheim a.d.Ruhr (DE)"
+  },
+  {
+    "id":"DE022C",
+    "city":"Moers",
+    "country_code":"DE",
+    "lat":51.452791,
+    "lon":6.619854,
+    "label":"Moers (DE)"
+  },
+  {
+    "id":"DE023C",
+    "city":"Darmstadt",
+    "country_code":"DE",
+    "lat":49.881618,
+    "lon":8.664899,
+    "label":"Darmstadt (DE)"
+  },
+  {
+    "id":"DE024C",
+    "city":"Trier",
+    "country_code":"DE",
+    "lat":49.762702,
+    "lon":6.655007,
+    "label":"Trier (DE)"
+  },
+  {
+    "id":"DE025C",
+    "city":"Freiburg im Breisgau",
+    "country_code":"DE",
+    "lat":47.992652,
+    "lon":7.81806,
+    "label":"Freiburg im Breisgau (DE)"
+  },
+  {
+    "id":"DE026C",
+    "city":"Regensburg",
+    "country_code":"DE",
+    "lat":49.013008,
+    "lon":12.113697,
+    "label":"Regensburg (DE)"
+  },
+  {
+    "id":"DE027C",
+    "city":"Frankfurt (Oder)",
+    "country_code":"DE",
+    "lat":52.324776,
+    "lon":14.490304,
+    "label":"Frankfurt (Oder) (DE)"
+  },
+  {
+    "id":"DE029C",
+    "city":"Schwerin",
+    "country_code":"DE",
+    "lat":53.62142,
+    "lon":11.4167,
+    "label":"Schwerin (DE)"
+  },
+  {
+    "id":"DE030C",
+    "city":"Erfurt",
+    "country_code":"DE",
+    "lat":50.983257,
+    "lon":11.020228,
+    "label":"Erfurt (DE)"
+  },
+  {
+    "id":"DE031C",
+    "city":"Augsburg",
+    "country_code":"DE",
+    "lat":48.345594,
+    "lon":10.885505,
+    "label":"Augsburg (DE)"
+  },
+  {
+    "id":"DE032C",
+    "city":"Bonn",
+    "country_code":"DE",
+    "lat":50.7058,
+    "lon":7.109846,
+    "label":"Bonn (DE)"
+  },
+  {
+    "id":"DE033C",
+    "city":"Karlsruhe",
+    "country_code":"DE",
+    "lat":49.011323,
+    "lon":8.412674,
+    "label":"Karlsruhe (DE)"
+  },
+  {
+    "id":"DE034C",
+    "city":"Mönchengladbach",
+    "country_code":"DE",
+    "lat":51.167198,
+    "lon":6.412018,
+    "label":"Mönchengladbach (DE)"
+  },
+  {
+    "id":"DE035C",
+    "city":"Mainz",
+    "country_code":"DE",
+    "lat":49.974227,
+    "lon":8.241505,
+    "label":"Mainz (DE)"
+  },
+  {
+    "id":"DE036C",
+    "city":"Kiel",
+    "country_code":"DE",
+    "lat":54.29643,
+    "lon":10.172175,
+    "label":"Kiel (DE)"
+  },
+  {
+    "id":"DE037C",
+    "city":"Saarbrücken",
+    "country_code":"DE",
+    "lat":49.239787,
+    "lon":7.006826,
+    "label":"Saarbrücken (DE)"
+  },
+  {
+    "id":"DE038C",
+    "city":"Potsdam",
+    "country_code":"DE",
+    "lat":52.426175,
+    "lon":13.028706,
+    "label":"Potsdam (DE)"
+  },
+  {
+    "id":"DE039C",
+    "city":"Koblenz",
+    "country_code":"DE",
+    "lat":50.348522,
+    "lon":7.579525,
+    "label":"Koblenz (DE)"
+  },
+  {
+    "id":"DE040C",
+    "city":"Rostock",
+    "country_code":"DE",
+    "lat":54.212796,
+    "lon":12.219876,
+    "label":"Rostock (DE)"
+  },
+  {
+    "id":"DE041C",
+    "city":"Kaiserslautern",
+    "country_code":"DE",
+    "lat":49.432801,
+    "lon":7.760709,
+    "label":"Kaiserslautern (DE)"
+  },
+  {
+    "id":"DE042C",
+    "city":"Iserlohn",
+    "country_code":"DE",
+    "lat":51.386928,
+    "lon":7.66978,
+    "label":"Iserlohn (DE)"
+  },
+  {
+    "id":"DE043C",
+    "city":"Esslingen am Neckar (greater city)",
+    "country_code":"DE",
+    "lat":48.727239,
+    "lon":9.307729,
+    "label":"Esslingen am Neckar (greater city) (DE)"
+  },
+  {
+    "id":"DE044C",
+    "city":"Hanau",
+    "country_code":"DE",
+    "lat":50.126836,
+    "lon":8.93455,
+    "label":"Hanau (DE)"
+  },
+  {
+    "id":"DE046C",
+    "city":"Ludwigsburg (greater city)",
+    "country_code":"DE",
+    "lat":48.899816,
+    "lon":9.195763,
+    "label":"Ludwigsburg (greater city) (DE)"
+  },
+  {
+    "id":"DE047C",
+    "city":"Tübingen",
+    "country_code":"DE",
+    "lat":48.527649,
+    "lon":9.047672,
+    "label":"Tübingen (DE)"
+  },
+  {
+    "id":"DE049C",
+    "city":"Flensburg",
+    "country_code":"DE",
+    "lat":54.793929,
+    "lon":9.469342,
+    "label":"Flensburg (DE)"
+  },
+  {
+    "id":"DE051C",
+    "city":"Konstanz",
+    "country_code":"DE",
+    "lat":47.706749,
+    "lon":9.150068,
+    "label":"Konstanz (DE)"
+  },
+  {
+    "id":"DE052C",
+    "city":"Neumünster",
+    "country_code":"DE",
+    "lat":54.081125,
+    "lon":9.984669,
+    "label":"Neumünster (DE)"
+  },
+  {
+    "id":"DE054C",
+    "city":"Gießen",
+    "country_code":"DE",
+    "lat":50.589272,
+    "lon":8.712157,
+    "label":"Gießen (DE)"
+  },
+  {
+    "id":"DE055C",
+    "city":"Lüneburg",
+    "country_code":"DE",
+    "lat":53.241116,
+    "lon":10.416421,
+    "label":"Lüneburg (DE)"
+  },
+  {
+    "id":"DE056C",
+    "city":"Bayreuth",
+    "country_code":"DE",
+    "lat":49.937611,
+    "lon":11.5854,
+    "label":"Bayreuth (DE)"
+  },
+  {
+    "id":"DE058C",
+    "city":"Aschaffenburg",
+    "country_code":"DE",
+    "lat":49.963849,
+    "lon":9.145833,
+    "label":"Aschaffenburg (DE)"
+  },
+  {
+    "id":"DE059C",
+    "city":"Bamberg",
+    "country_code":"DE",
+    "lat":49.88724,
+    "lon":10.898908,
+    "label":"Bamberg (DE)"
+  },
+  {
+    "id":"DE060C",
+    "city":"Plauen",
+    "country_code":"DE",
+    "lat":50.498364,
+    "lon":12.135943,
+    "label":"Plauen (DE)"
+  },
+  {
+    "id":"DE063C",
+    "city":"Kempten (Allgäu)",
+    "country_code":"DE",
+    "lat":47.73821,
+    "lon":10.308112,
+    "label":"Kempten (Allgäu) (DE)"
+  },
+  {
+    "id":"DE064C",
+    "city":"Landshut",
+    "country_code":"DE",
+    "lat":48.537247,
+    "lon":12.152122,
+    "label":"Landshut (DE)"
+  },
+  {
+    "id":"DE065C",
+    "city":"Sindelfingen",
+    "country_code":"DE",
+    "lat":48.712319,
+    "lon":9.004,
+    "label":"Sindelfingen (DE)"
+  },
+  {
+    "id":"DE066C",
+    "city":"Rosenheim",
+    "country_code":"DE",
+    "lat":47.844469,
+    "lon":12.109033,
+    "label":"Rosenheim (DE)"
+  },
+  {
+    "id":"DE067C",
+    "city":"Frankenthal (Pfalz)",
+    "country_code":"DE",
+    "lat":49.533256,
+    "lon":8.35701,
+    "label":"Frankenthal (Pfalz) (DE)"
+  },
+  {
+    "id":"DE071C",
+    "city":"Görlitz",
+    "country_code":"DE",
+    "lat":51.141559,
+    "lon":14.966557,
+    "label":"Görlitz (DE)"
+  },
+  {
+    "id":"DE072C",
+    "city":"Sankt Augustin",
+    "country_code":"DE",
+    "lat":50.771417,
+    "lon":7.18999,
+    "label":"Sankt Augustin (DE)"
+  },
+  {
+    "id":"DE073C",
+    "city":"Neu-Ulm",
+    "country_code":"DE",
+    "lat":48.380589,
+    "lon":10.052728,
+    "label":"Neu-Ulm (DE)"
+  },
+  {
+    "id":"DE074C",
+    "city":"Schweinfurt",
+    "country_code":"DE",
+    "lat":50.047103,
+    "lon":10.220862,
+    "label":"Schweinfurt (DE)"
+  },
+  {
+    "id":"DE080C",
+    "city":"Duisburg",
+    "country_code":"DE",
+    "lat":51.439637,
+    "lon":6.73467,
+    "label":"Duisburg (DE)"
+  },
+  {
+    "id":"DE081C",
+    "city":"Mannheim",
+    "country_code":"DE",
+    "lat":49.499525,
+    "lon":8.500411,
+    "label":"Mannheim (DE)"
+  },
+  {
+    "id":"DE082C",
+    "city":"Gelsenkirchen",
+    "country_code":"DE",
+    "lat":51.553932,
+    "lon":7.071167,
+    "label":"Gelsenkirchen (DE)"
+  },
+  {
+    "id":"DE083C",
+    "city":"Münster",
+    "country_code":"DE",
+    "lat":51.954316,
+    "lon":7.623637,
+    "label":"Münster (DE)"
+  },
+  {
+    "id":"DE084C",
+    "city":"Chemnitz",
+    "country_code":"DE",
+    "lat":50.826325,
+    "lon":12.911818,
+    "label":"Chemnitz (DE)"
+  },
+  {
+    "id":"DE085C",
+    "city":"Braunschweig",
+    "country_code":"DE",
+    "lat":52.2753,
+    "lon":10.524205,
+    "label":"Braunschweig (DE)"
+  },
+  {
+    "id":"DE086C",
+    "city":"Aachen",
+    "country_code":"DE",
+    "lat":50.760496,
+    "lon":6.108982,
+    "label":"Aachen (DE)"
+  },
+  {
+    "id":"DE087C",
+    "city":"Krefeld",
+    "country_code":"DE",
+    "lat":51.34523,
+    "lon":6.579674,
+    "label":"Krefeld (DE)"
+  },
+  {
+    "id":"DE088C",
+    "city":"Oberhausen",
+    "country_code":"DE",
+    "lat":51.513817,
+    "lon":6.853878,
+    "label":"Oberhausen (DE)"
+  },
+  {
+    "id":"DE089C",
+    "city":"Lübeck",
+    "country_code":"DE",
+    "lat":53.872448,
+    "lon":10.727553,
+    "label":"Lübeck (DE)"
+  },
+  {
+    "id":"DE090C",
+    "city":"Hagen",
+    "country_code":"DE",
+    "lat":51.348045,
+    "lon":7.497523,
+    "label":"Hagen (DE)"
+  },
+  {
+    "id":"DE091C",
+    "city":"Kassel",
+    "country_code":"DE",
+    "lat":51.311105,
+    "lon":9.459913,
+    "label":"Kassel (DE)"
+  },
+  {
+    "id":"DE092C",
+    "city":"Hamm",
+    "country_code":"DE",
+    "lat":51.665217,
+    "lon":7.823567,
+    "label":"Hamm (DE)"
+  },
+  {
+    "id":"DE093C",
+    "city":"Herne",
+    "country_code":"DE",
+    "lat":51.537529,
+    "lon":7.208559,
+    "label":"Herne (DE)"
+  },
+  {
+    "id":"DE094C",
+    "city":"Solingen",
+    "country_code":"DE",
+    "lat":51.169974,
+    "lon":7.062522,
+    "label":"Solingen (DE)"
+  },
+  {
+    "id":"DE095C",
+    "city":"Osnabrück",
+    "country_code":"DE",
+    "lat":52.27767,
+    "lon":8.046969,
+    "label":"Osnabrück (DE)"
+  },
+  {
+    "id":"DE096C",
+    "city":"Ludwigshafen am Rhein",
+    "country_code":"DE",
+    "lat":49.482091,
+    "lon":8.396776,
+    "label":"Ludwigshafen am Rhein (DE)"
+  },
+  {
+    "id":"DE097C",
+    "city":"Leverkusen",
+    "country_code":"DE",
+    "lat":51.05308,
+    "lon":7.01541,
+    "label":"Leverkusen (DE)"
+  },
+  {
+    "id":"DE098C",
+    "city":"Oldenburg (Oldenburg)",
+    "country_code":"DE",
+    "lat":53.144579,
+    "lon":8.224347,
+    "label":"Oldenburg (Oldenburg) (DE)"
+  },
+  {
+    "id":"DE099C",
+    "city":"Neuss",
+    "country_code":"DE",
+    "lat":51.17295,
+    "lon":6.702019,
+    "label":"Neuss (DE)"
+  },
+  {
+    "id":"DE100C",
+    "city":"Heidelberg",
+    "country_code":"DE",
+    "lat":49.405524,
+    "lon":8.69421,
+    "label":"Heidelberg (DE)"
+  },
+  {
+    "id":"DE101C",
+    "city":"Paderborn",
+    "country_code":"DE",
+    "lat":51.730256,
+    "lon":8.754325,
+    "label":"Paderborn (DE)"
+  },
+  {
+    "id":"DE102C",
+    "city":"Würzburg",
+    "country_code":"DE",
+    "lat":49.784702,
+    "lon":9.940867,
+    "label":"Würzburg (DE)"
+  },
+  {
+    "id":"DE103C",
+    "city":"Recklinghausen",
+    "country_code":"DE",
+    "lat":51.604943,
+    "lon":7.213121,
+    "label":"Recklinghausen (DE)"
+  },
+  {
+    "id":"DE104C",
+    "city":"Wolfsburg",
+    "country_code":"DE",
+    "lat":52.410747,
+    "lon":10.784984,
+    "label":"Wolfsburg (DE)"
+  },
+  {
+    "id":"DE105C",
+    "city":"Bremerhaven",
+    "country_code":"DE",
+    "lat":53.544715,
+    "lon":8.612264,
+    "label":"Bremerhaven (DE)"
+  },
+  {
+    "id":"DE106C",
+    "city":"Bottrop",
+    "country_code":"DE",
+    "lat":51.525954,
+    "lon":6.957748,
+    "label":"Bottrop (DE)"
+  },
+  {
+    "id":"DE107C",
+    "city":"Heilbronn",
+    "country_code":"DE",
+    "lat":49.152709,
+    "lon":9.18232,
+    "label":"Heilbronn (DE)"
+  },
+  {
+    "id":"DE108C",
+    "city":"Remscheid",
+    "country_code":"DE",
+    "lat":51.1827,
+    "lon":7.224033,
+    "label":"Remscheid (DE)"
+  },
+  {
+    "id":"DE109C",
+    "city":"Offenbach am Main",
+    "country_code":"DE",
+    "lat":50.091136,
+    "lon":8.780826,
+    "label":"Offenbach am Main (DE)"
+  },
+  {
+    "id":"DE110C",
+    "city":"Ulm",
+    "country_code":"DE",
+    "lat":48.381348,
+    "lon":9.94275,
+    "label":"Ulm (DE)"
+  },
+  {
+    "id":"DE111C",
+    "city":"Pforzheim",
+    "country_code":"DE",
+    "lat":48.876423,
+    "lon":8.712595,
+    "label":"Pforzheim (DE)"
+  },
+  {
+    "id":"DE112C",
+    "city":"Ingolstadt",
+    "country_code":"DE",
+    "lat":48.755164,
+    "lon":11.394836,
+    "label":"Ingolstadt (DE)"
+  },
+  {
+    "id":"DE113C",
+    "city":"Gera",
+    "country_code":"DE",
+    "lat":50.894005,
+    "lon":12.082719,
+    "label":"Gera (DE)"
+  },
+  {
+    "id":"DE115C",
+    "city":"Reutlingen",
+    "country_code":"DE",
+    "lat":48.493455,
+    "lon":9.188529,
+    "label":"Reutlingen (DE)"
+  },
+  {
+    "id":"DE116C",
+    "city":"Fürth",
+    "country_code":"DE",
+    "lat":49.491402,
+    "lon":10.96543,
+    "label":"Fürth (DE)"
+  },
+  {
+    "id":"DE117C",
+    "city":"Cottbus",
+    "country_code":"DE",
+    "lat":51.772577,
+    "lon":14.366283,
+    "label":"Cottbus (DE)"
+  },
+  {
+    "id":"DE118C",
+    "city":"Siegen",
+    "country_code":"DE",
+    "lat":50.881031,
+    "lon":8.01174,
+    "label":"Siegen (DE)"
+  },
+  {
+    "id":"DE119C",
+    "city":"Bergisch Gladbach",
+    "country_code":"DE",
+    "lat":50.979106,
+    "lon":7.154449,
+    "label":"Bergisch Gladbach (DE)"
+  },
+  {
+    "id":"DE120C",
+    "city":"Hildesheim",
+    "country_code":"DE",
+    "lat":52.144654,
+    "lon":9.94382,
+    "label":"Hildesheim (DE)"
+  },
+  {
+    "id":"DE121C",
+    "city":"Witten",
+    "country_code":"DE",
+    "lat":51.432496,
+    "lon":7.334836,
+    "label":"Witten (DE)"
+  },
+  {
+    "id":"DE123C",
+    "city":"Erlangen",
+    "country_code":"DE",
+    "lat":49.582348,
+    "lon":10.97814,
+    "label":"Erlangen (DE)"
+  },
+  {
+    "id":"DE124C",
+    "city":"Wuppertal",
+    "country_code":"DE",
+    "lat":51.250658,
+    "lon":7.168916,
+    "label":"Wuppertal (DE)"
+  },
+  {
+    "id":"DE125C",
+    "city":"Jena",
+    "country_code":"DE",
+    "lat":50.924241,
+    "lon":11.586974,
+    "label":"Jena (DE)"
+  },
+  {
+    "id":"DE126C",
+    "city":"Düren, Stadt",
+    "country_code":"DE",
+    "lat":50.803245,
+    "lon":6.461207,
+    "label":"Düren, Stadt (DE)"
+  },
+  {
+    "id":"DE127C",
+    "city":"Bocholt, Stadt",
+    "country_code":"DE",
+    "lat":51.853517,
+    "lon":6.600728,
+    "label":"Bocholt, Stadt (DE)"
+  },
+  {
+    "id":"DE128C",
+    "city":"Elmshorn",
+    "country_code":"DE",
+    "lat":53.751608,
+    "lon":9.664818,
+    "label":"Elmshorn (DE)"
+  },
+  {
+    "id":"DE129C",
+    "city":"Norderstedt",
+    "country_code":"DE",
+    "lat":53.714474,
+    "lon":10.004221,
+    "label":"Norderstedt (DE)"
+  },
+  {
+    "id":"DE130C",
+    "city":"Delmenhorst",
+    "country_code":"DE",
+    "lat":53.04942,
+    "lon":8.645621,
+    "label":"Delmenhorst (DE)"
+  },
+  {
+    "id":"DE131C",
+    "city":"Hilden",
+    "country_code":"DE",
+    "lat":51.170977,
+    "lon":6.938323,
+    "label":"Hilden (DE)"
+  },
+  {
+    "id":"DE132C",
+    "city":"Langenfeld (Rheinland)",
+    "country_code":"DE",
+    "lat":51.110642,
+    "lon":6.956412,
+    "label":"Langenfeld (Rheinland) (DE)"
+  },
+  {
+    "id":"DE133C",
+    "city":"Ratingen",
+    "country_code":"DE",
+    "lat":51.314623,
+    "lon":6.875756,
+    "label":"Ratingen (DE)"
+  },
+  {
+    "id":"DE134C",
+    "city":"Dinslaken",
+    "country_code":"DE",
+    "lat":51.571999,
+    "lon":6.775123,
+    "label":"Dinslaken (DE)"
+  },
+  {
+    "id":"DE135C",
+    "city":"Herzogenrath",
+    "country_code":"DE",
+    "lat":50.864418,
+    "lon":6.098592,
+    "label":"Herzogenrath (DE)"
+  },
+  {
+    "id":"DE136C",
+    "city":"Troisdorf (greater city)",
+    "country_code":"DE",
+    "lat":50.820873,
+    "lon":7.135092,
+    "label":"Troisdorf (greater city) (DE)"
+  },
+  {
+    "id":"DE137C",
+    "city":"Castrop-Rauxel",
+    "country_code":"DE",
+    "lat":51.570223,
+    "lon":7.314439,
+    "label":"Castrop-Rauxel (DE)"
+  },
+  {
+    "id":"DE138C",
+    "city":"Gladbeck",
+    "country_code":"DE",
+    "lat":51.572433,
+    "lon":6.978949,
+    "label":"Gladbeck (DE)"
+  },
+  {
+    "id":"DE139C",
+    "city":"Herten",
+    "country_code":"DE",
+    "lat":51.605883,
+    "lon":7.12344,
+    "label":"Herten (DE)"
+  },
+  {
+    "id":"DE140C",
+    "city":"Marl",
+    "country_code":"DE",
+    "lat":51.667332,
+    "lon":7.11054,
+    "label":"Marl (DE)"
+  },
+  {
+    "id":"DE141C",
+    "city":"Gütersloh",
+    "country_code":"DE",
+    "lat":51.917318,
+    "lon":8.393271,
+    "label":"Gütersloh (DE)"
+  },
+  {
+    "id":"DE142C",
+    "city":"Hattingen",
+    "country_code":"DE",
+    "lat":51.375828,
+    "lon":7.185322,
+    "label":"Hattingen (DE)"
+  },
+  {
+    "id":"DE143C",
+    "city":"Lüdenscheid",
+    "country_code":"DE",
+    "lat":51.212766,
+    "lon":7.639106,
+    "label":"Lüdenscheid (DE)"
+  },
+  {
+    "id":"DE144C",
+    "city":"Lünen",
+    "country_code":"DE",
+    "lat":51.611036,
+    "lon":7.508746,
+    "label":"Lünen (DE)"
+  },
+  {
+    "id":"DE145C",
+    "city":"Unna",
+    "country_code":"DE",
+    "lat":51.538594,
+    "lon":7.729056,
+    "label":"Unna (DE)"
+  },
+  {
+    "id":"DE146C",
+    "city":"Rüsselsheim am Main (greater city)",
+    "country_code":"DE",
+    "lat":49.987487,
+    "lon":8.452801,
+    "label":"Rüsselsheim am Main (greater city) (DE)"
+  },
+  {
+    "id":"DE147C",
+    "city":"Oberursel (greater city)",
+    "country_code":"DE",
+    "lat":50.206026,
+    "lon":8.554947,
+    "label":"Oberursel (greater city) (DE)"
+  },
+  {
+    "id":"DE148C",
+    "city":"Böblingen",
+    "country_code":"DE",
+    "lat":48.681833,
+    "lon":9.019747,
+    "label":"Böblingen (DE)"
+  },
+  {
+    "id":"SE014C",
+    "city":"Borås",
+    "country_code":"SE",
+    "lat":57.732332,
+    "lon":12.941149,
+    "label":"Borås (SE)"
+  },
+  {
+    "id":"SE015C",
+    "city":"Växjö",
+    "country_code":"SE",
+    "lat":56.931283,
+    "lon":14.873315,
+    "label":"Växjö (SE)"
+  },
+  {
+    "id":"SI001C",
+    "city":"Ljubljana ",
+    "country_code":"SI",
+    "lat":46.071022,
+    "lon":14.49529,
+    "label":"Ljubljana  (SI)"
+  },
+  {
+    "id":"SI002C",
+    "city":"Maribor",
+    "country_code":"SI",
+    "lat":46.563456,
+    "lon":15.627245,
+    "label":"Maribor (SI)"
+  },
+  {
+    "id":"SK001C",
+    "city":"Bratislava (greater city)",
+    "country_code":"SK",
+    "lat":48.148833,
+    "lon":17.119074,
+    "label":"Bratislava (greater city) (SK)"
+  },
+  {
+    "id":"SK002C",
+    "city":"Košice (greater city)",
+    "country_code":"SK",
+    "lat":48.70355,
+    "lon":21.22848,
+    "label":"Košice (greater city) (SK)"
+  },
+  {
+    "id":"SK003C",
+    "city":"Banská Bystrica",
+    "country_code":"SK",
+    "lat":48.736298,
+    "lon":19.127779,
+    "label":"Banská Bystrica (SK)"
+  },
+  {
+    "id":"SK004C",
+    "city":"Nitra",
+    "country_code":"SK",
+    "lat":48.300866,
+    "lon":18.086226,
+    "label":"Nitra (SK)"
+  },
+  {
+    "id":"SK005C",
+    "city":"Prešov",
+    "country_code":"SK",
+    "lat":48.993593,
+    "lon":21.242132,
+    "label":"Prešov (SK)"
+  },
+  {
+    "id":"SK006C",
+    "city":"Žilina",
+    "country_code":"SK",
+    "lat":49.218554,
+    "lon":18.744956,
+    "label":"Žilina (SK)"
+  },
+  {
+    "id":"SK007C",
+    "city":"Trnava",
+    "country_code":"SK",
+    "lat":48.380831,
+    "lon":17.58662,
+    "label":"Trnava (SK)"
+  },
+  {
+    "id":"SK008C",
+    "city":"Trenčín",
+    "country_code":"SK",
+    "lat":48.889974,
+    "lon":18.111478,
+    "label":"Trenčín (SK)"
+  },
+  {
+    "id":"AT001C",
+    "city":"Wien (greater city)",
+    "country_code":"AT",
+    "lat":48.198718,
+    "lon":16.369144,
+    "label":"Wien (greater city) (AT)"
+  },
+  {
+    "id":"AT002C",
+    "city":"Graz",
+    "country_code":"AT",
+    "lat":47.075488,
+    "lon":15.439089,
+    "label":"Graz (AT)"
+  },
+  {
+    "id":"AT003C",
+    "city":"Linz (greater city)",
+    "country_code":"AT",
+    "lat":48.282118,
+    "lon":14.301901,
+    "label":"Linz (greater city) (AT)"
+  },
+  {
+    "id":"AT004C",
+    "city":"Salzburg",
+    "country_code":"AT",
+    "lat":47.797864,
+    "lon":13.04658,
+    "label":"Salzburg (AT)"
+  },
+  {
+    "id":"AT005C",
+    "city":"Innsbruck",
+    "country_code":"AT",
+    "lat":47.28915,
+    "lon":11.380758,
+    "label":"Innsbruck (AT)"
+  },
+  {
+    "id":"AT006C",
+    "city":"Klagenfurt",
+    "country_code":"AT",
+    "lat":46.639211,
+    "lon":14.295477,
+    "label":"Klagenfurt (AT)"
+  },
+  {
+    "id":"AT007C",
+    "city":"Bregenz (greater city)",
+    "country_code":"AT",
+    "lat":47.491329,
+    "lon":9.719323,
+    "label":"Bregenz (greater city) (AT)"
+  },
+  {
+    "id":"AT008C",
+    "city":"Wels",
+    "country_code":"AT",
+    "lat":48.174447,
+    "lon":14.02047,
+    "label":"Wels (AT)"
+  },
+  {
+    "id":"BE001C",
+    "city":"Bruxelles\/Brussel (greater city)",
+    "country_code":"BE",
+    "lat":50.843266,
+    "lon":4.344715,
+    "label":"Bruxelles\/Brussel (greater city) (BE)"
+  },
+  {
+    "id":"BE002C",
+    "city":"Antwerpen (greater city)",
+    "country_code":"BE",
+    "lat":51.246443,
+    "lon":4.397348,
+    "label":"Antwerpen (greater city) (BE)"
+  },
+  {
+    "id":"BE003C",
+    "city":"Gent",
+    "country_code":"BE",
+    "lat":51.074345,
+    "lon":3.725266,
+    "label":"Gent (BE)"
+  },
+  {
+    "id":"BE004C",
+    "city":"Charleroi (greater city)",
+    "country_code":"BE",
+    "lat":50.417413,
+    "lon":4.459918,
+    "label":"Charleroi (greater city) (BE)"
+  },
+  {
+    "id":"BE005C",
+    "city":"Liège (greater city)",
+    "country_code":"BE",
+    "lat":50.635613,
+    "lon":5.552679,
+    "label":"Liège (greater city) (BE)"
+  },
+  {
+    "id":"BE006C",
+    "city":"Brugge",
+    "country_code":"BE",
+    "lat":51.265971,
+    "lon":3.222199,
+    "label":"Brugge (BE)"
+  },
+  {
+    "id":"BE007C",
+    "city":"Namur",
+    "country_code":"BE",
+    "lat":50.460451,
+    "lon":4.872577,
+    "label":"Namur (BE)"
+  },
+  {
+    "id":"BE008C",
+    "city":"Leuven",
+    "country_code":"BE",
+    "lat":50.882202,
+    "lon":4.705877,
+    "label":"Leuven (BE)"
+  },
+  {
+    "id":"BE009C",
+    "city":"Mons (greater city)",
+    "country_code":"BE",
+    "lat":50.440213,
+    "lon":3.945521,
+    "label":"Mons (greater city) (BE)"
+  },
+  {
+    "id":"BE010C",
+    "city":"Kortrijk (greater city)",
+    "country_code":"BE",
+    "lat":50.820689,
+    "lon":3.275607,
+    "label":"Kortrijk (greater city) (BE)"
+  },
+  {
+    "id":"BE011C",
+    "city":"Oostende (greater city)",
+    "country_code":"BE",
+    "lat":51.216528,
+    "lon":2.939118,
+    "label":"Oostende (greater city) (BE)"
+  },
+  {
+    "id":"BE012C",
+    "city":"Mechelen",
+    "country_code":"BE",
+    "lat":51.02853,
+    "lon":4.450303,
+    "label":"Mechelen (BE)"
+  },
+  {
+    "id":"BE013C",
+    "city":"Mouscron",
+    "country_code":"BE",
+    "lat":50.736358,
+    "lon":3.250926,
+    "label":"Mouscron (BE)"
+  },
+  {
+    "id":"BE014C",
+    "city":"La Louvière (greater city)",
+    "country_code":"BE",
+    "lat":50.478089,
+    "lon":4.175695,
+    "label":"La Louvière (greater city) (BE)"
+  },
+  {
+    "id":"BE015C",
+    "city":"Verviers (greater city)",
+    "country_code":"BE",
+    "lat":50.593622,
+    "lon":5.869133,
+    "label":"Verviers (greater city) (BE)"
+  },
+  {
+    "id":"BG001C",
+    "city":"Sofia",
+    "country_code":"BG",
+    "lat":42.673446,
+    "lon":23.364882,
+    "label":"Sofia (BG)"
+  },
+  {
+    "id":"BG002C",
+    "city":"Plovdiv",
+    "country_code":"BG",
+    "lat":42.143225,
+    "lon":24.738114,
+    "label":"Plovdiv (BG)"
+  },
+  {
+    "id":"BG003C",
+    "city":"Varna",
+    "country_code":"BG",
+    "lat":43.199434,
+    "lon":27.883116,
+    "label":"Varna (BG)"
+  },
+  {
+    "id":"BG004C",
+    "city":"Burgas",
+    "country_code":"BG",
+    "lat":42.527813,
+    "lon":27.415028,
+    "label":"Burgas (BG)"
+  },
+  {
+    "id":"BG005C",
+    "city":"Pleven",
+    "country_code":"BG",
+    "lat":43.388002,
+    "lon":24.668662,
+    "label":"Pleven (BG)"
+  },
+  {
+    "id":"BG006C",
+    "city":"Ruse",
+    "country_code":"BG",
+    "lat":43.824058,
+    "lon":26.117099,
+    "label":"Ruse (BG)"
+  },
+  {
+    "id":"BG008C",
+    "city":"Stara Zagora",
+    "country_code":"BG",
+    "lat":42.406696,
+    "lon":25.613558,
+    "label":"Stara Zagora (BG)"
+  },
+  {
+    "id":"BG009C",
+    "city":"Sliven",
+    "country_code":"BG",
+    "lat":42.671125,
+    "lon":26.311329,
+    "label":"Sliven (BG)"
+  },
+  {
+    "id":"BG010C",
+    "city":"Dobrich",
+    "country_code":"BG",
+    "lat":43.578742,
+    "lon":27.803698,
+    "label":"Dobrich (BG)"
+  },
+  {
+    "id":"BG011C",
+    "city":"Shumen",
+    "country_code":"BG",
+    "lat":43.253628,
+    "lon":26.979218,
+    "label":"Shumen (BG)"
+  },
+  {
+    "id":"BG012C",
+    "city":"Pernik",
+    "country_code":"BG",
+    "lat":42.601484,
+    "lon":23.077626,
+    "label":"Pernik (BG)"
+  },
+  {
+    "id":"BG014C",
+    "city":"Haskovo",
+    "country_code":"BG",
+    "lat":41.891262,
+    "lon":25.596173,
+    "label":"Haskovo (BG)"
+  },
+  {
+    "id":"BG015C",
+    "city":"Pazardzhik",
+    "country_code":"BG",
+    "lat":42.21679,
+    "lon":24.341232,
+    "label":"Pazardzhik (BG)"
+  },
+  {
+    "id":"BG017C",
+    "city":"Veliko Tarnovo",
+    "country_code":"BG",
+    "lat":43.092709,
+    "lon":25.441916,
+    "label":"Veliko Tarnovo (BG)"
+  },
+  {
+    "id":"CB003C",
+    "city":"Como\/Chiasso",
+    "country_code":"CB",
+    "lat":45.835851,
+    "lon":9.01758,
+    "label":"Como\/Chiasso (CB)"
+  },
+  {
+    "id":"CB009C",
+    "city":"Konstanz\/Kreuzlingen",
+    "country_code":"CB",
+    "lat":47.638605,
+    "lon":9.179139,
+    "label":"Konstanz\/Kreuzlingen (CB)"
+  },
+  {
+    "id":"CH001C",
+    "city":"Bern (greater city)",
+    "country_code":"CH",
+    "lat":46.936872,
+    "lon":7.427293,
+    "label":"Bern (greater city) (CH)"
+  },
+  {
+    "id":"CH002C",
+    "city":"Zurich (greater city)",
+    "country_code":"CH",
+    "lat":47.350791,
+    "lon":8.516676,
+    "label":"Zurich (greater city) (CH)"
+  },
+  {
+    "id":"CH003C",
+    "city":"Geneva (greater city)",
+    "country_code":"CH",
+    "lat":46.198189,
+    "lon":6.123601,
+    "label":"Geneva (greater city) (CH)"
+  },
+  {
+    "id":"CH004C",
+    "city":"Basel (greater city)",
+    "country_code":"CH",
+    "lat":47.524691,
+    "lon":7.600326,
+    "label":"Basel (greater city) (CH)"
+  },
+  {
+    "id":"CH005C",
+    "city":"Lausanne (greater city)",
+    "country_code":"CH",
+    "lat":46.553418,
+    "lon":6.659812,
+    "label":"Lausanne (greater city) (CH)"
+  },
+  {
+    "id":"CH006C",
+    "city":"Lucerne (greater city)",
+    "country_code":"CH",
+    "lat":47.054645,
+    "lon":8.278681,
+    "label":"Lucerne (greater city) (CH)"
+  },
+  {
+    "id":"CH007C",
+    "city":"Winterthur",
+    "country_code":"CH",
+    "lat":47.496809,
+    "lon":8.734154,
+    "label":"Winterthur (CH)"
+  },
+  {
+    "id":"CH008C",
+    "city":"Lugano (greater city)",
+    "country_code":"CH",
+    "lat":46.039934,
+    "lon":8.994828,
+    "label":"Lugano (greater city) (CH)"
+  },
+  {
+    "id":"CH009C",
+    "city":"St. Gallen (greater city)",
+    "country_code":"CH",
+    "lat":47.432085,
+    "lon":9.37631,
+    "label":"St. Gallen (greater city) (CH)"
+  },
+  {
+    "id":"CH010C",
+    "city":"Biel\/Bienne (greater city)",
+    "country_code":"CH",
+    "lat":47.140011,
+    "lon":7.260798,
+    "label":"Biel\/Bienne (greater city) (CH)"
+  },
+  {
+    "id":"CH011C",
+    "city":"Thun (greater city)",
+    "country_code":"CH",
+    "lat":46.761435,
+    "lon":7.6299,
+    "label":"Thun (greater city) (CH)"
+  },
+  {
+    "id":"CH012C",
+    "city":"Zug (greater city)",
+    "country_code":"CH",
+    "lat":47.171795,
+    "lon":8.537209,
+    "label":"Zug (greater city) (CH)"
+  },
+  {
+    "id":"CH013C",
+    "city":"Fribourg (greater city)",
+    "country_code":"CH",
+    "lat":46.798794,
+    "lon":7.145206,
+    "label":"Fribourg (greater city) (CH)"
+  },
+  {
+    "id":"CH014C",
+    "city":"Montreux – Vevey (greater city)",
+    "country_code":"CH",
+    "lat":46.454464,
+    "lon":6.947336,
+    "label":"Montreux – Vevey (greater city) (CH)"
+  },
+  {
+    "id":"CH015C",
+    "city":"Aarau (greater city)",
+    "country_code":"CH",
+    "lat":47.396409,
+    "lon":8.064776,
+    "label":"Aarau (greater city) (CH)"
+  },
+  {
+    "id":"CY001C",
+    "city":"Lefkosia (greater city)",
+    "country_code":"CY",
+    "lat":35.145379,
+    "lon":33.376097,
+    "label":"Lefkosia (greater city) (CY)"
+  },
+  {
+    "id":"CY002C",
+    "city":"Larnaka (greater city)",
+    "country_code":"CY",
+    "lat":34.927174,
+    "lon":33.59432,
+    "label":"Larnaka (greater city) (CY)"
+  },
+  {
+    "id":"CY003C",
+    "city":"Lemesos (greater city)",
+    "country_code":"CY",
+    "lat":34.704371,
+    "lon":33.007855,
+    "label":"Lemesos (greater city) (CY)"
+  },
+  {
+    "id":"CZ001C",
+    "city":"Praha",
+    "country_code":"CZ",
+    "lat":50.066755,
+    "lon":14.466046,
+    "label":"Praha (CZ)"
+  },
+  {
+    "id":"CZ002C",
+    "city":"Brno",
+    "country_code":"CZ",
+    "lat":49.206724,
+    "lon":16.588746,
+    "label":"Brno (CZ)"
+  },
+  {
+    "id":"CZ003C",
+    "city":"Ostrava",
+    "country_code":"CZ",
+    "lat":49.814159,
+    "lon":18.246151,
+    "label":"Ostrava (CZ)"
+  },
+  {
+    "id":"CZ004C",
+    "city":"Plzeň",
+    "country_code":"CZ",
+    "lat":49.740201,
+    "lon":13.372931,
+    "label":"Plzeň (CZ)"
+  },
+  {
+    "id":"CZ005C",
+    "city":"Ústí nad Labem",
+    "country_code":"CZ",
+    "lat":50.658393,
+    "lon":14.039159,
+    "label":"Ústí nad Labem (CZ)"
+  },
+  {
+    "id":"CZ006C",
+    "city":"Olomouc",
+    "country_code":"CZ",
+    "lat":49.595644,
+    "lon":17.272898,
+    "label":"Olomouc (CZ)"
+  },
+  {
+    "id":"CZ007C",
+    "city":"Liberec",
+    "country_code":"CZ",
+    "lat":50.765817,
+    "lon":15.05105,
+    "label":"Liberec (CZ)"
+  },
+  {
+    "id":"CZ008C",
+    "city":"České Budějovice",
+    "country_code":"CZ",
+    "lat":48.983662,
+    "lon":14.464799,
+    "label":"České Budějovice (CZ)"
+  },
+  {
+    "id":"CZ009C",
+    "city":"Hradec Králové",
+    "country_code":"CZ",
+    "lat":50.207931,
+    "lon":15.843707,
+    "label":"Hradec Králové (CZ)"
+  },
+  {
+    "id":"CZ010C",
+    "city":"Pardubice",
+    "country_code":"CZ",
+    "lat":50.03046,
+    "lon":15.76485,
+    "label":"Pardubice (CZ)"
+  },
+  {
+    "id":"CZ012C",
+    "city":"Kladno",
+    "country_code":"CZ",
+    "lat":50.148678,
+    "lon":14.111094,
+    "label":"Kladno (CZ)"
+  },
+  {
+    "id":"CZ015C",
+    "city":"Havířov",
+    "country_code":"CZ",
+    "lat":49.785648,
+    "lon":18.43896,
+    "label":"Havířov (CZ)"
+  },
+  {
+    "id":"CZ016C",
+    "city":"Most",
+    "country_code":"CZ",
+    "lat":50.514264,
+    "lon":13.614773,
+    "label":"Most (CZ)"
+  },
+  {
+    "id":"CZ018C",
+    "city":"Chomutov-Jirkov",
+    "country_code":"CZ",
+    "lat":50.480106,
+    "lon":13.421194,
+    "label":"Chomutov-Jirkov (CZ)"
+  },
+  {
+    "id":"DE001C",
+    "city":"Berlin",
+    "country_code":"DE",
+    "lat":52.501534,
+    "lon":13.401852,
+    "label":"Berlin (DE)"
+  },
+  {
+    "id":"DE002C",
+    "city":"Hamburg",
+    "country_code":"DE",
+    "lat":53.544638,
+    "lon":10.026996,
+    "label":"Hamburg (DE)"
+  },
+  {
+    "id":"DE003C",
+    "city":"München",
+    "country_code":"DE",
+    "lat":48.153206,
+    "lon":11.547264,
+    "label":"München (DE)"
+  },
+  {
+    "id":"DE004C",
+    "city":"Köln",
+    "country_code":"DE",
+    "lat":50.945623,
+    "lon":6.973317,
+    "label":"Köln (DE)"
+  },
+  {
+    "id":"DE005C",
+    "city":"Frankfurt am Main",
+    "country_code":"DE",
+    "lat":50.117963,
+    "lon":8.644164,
+    "label":"Frankfurt am Main (DE)"
+  },
+  {
+    "id":"DE006C",
+    "city":"Essen",
+    "country_code":"DE",
+    "lat":51.433861,
+    "lon":7.017115,
+    "label":"Essen (DE)"
+  },
+  {
+    "id":"DE007C",
+    "city":"Stuttgart",
+    "country_code":"DE",
+    "lat":48.774577,
+    "lon":9.172009,
+    "label":"Stuttgart (DE)"
+  },
+  {
+    "id":"IT062C",
+    "city":"Anzio (greater city)",
+    "country_code":"IT",
+    "lat":41.486715,
+    "lon":12.66032,
+    "label":"Anzio (greater city) (IT)"
+  },
+  {
+    "id":"IT063C",
+    "city":"Sassuolo",
+    "country_code":"IT",
+    "lat":44.533404,
+    "lon":10.778269,
+    "label":"Sassuolo (IT)"
+  },
+  {
+    "id":"IT064C",
+    "city":"Messina",
+    "country_code":"IT",
+    "lat":38.191126,
+    "lon":15.510482,
+    "label":"Messina (IT)"
+  },
+  {
+    "id":"IT065C",
+    "city":"Prato",
+    "country_code":"IT",
+    "lat":43.878142,
+    "lon":11.084793,
+    "label":"Prato (IT)"
+  },
+  {
+    "id":"IT066C",
+    "city":"Parma",
+    "country_code":"IT",
+    "lat":44.793669,
+    "lon":10.327614,
+    "label":"Parma (IT)"
+  },
+  {
+    "id":"IT067C",
+    "city":"Livorno",
+    "country_code":"IT",
+    "lat":43.524006,
+    "lon":10.359279,
+    "label":"Livorno (IT)"
+  },
+  {
+    "id":"IT068C",
+    "city":"Reggio nell'Emilia",
+    "country_code":"IT",
+    "lat":44.69742,
+    "lon":10.63469,
+    "label":"Reggio nell'Emilia (IT)"
+  },
+  {
+    "id":"IT069C",
+    "city":"Ravenna",
+    "country_code":"IT",
+    "lat":44.41285,
+    "lon":12.193154,
+    "label":"Ravenna (IT)"
+  },
+  {
+    "id":"IT070C",
+    "city":"Ferrara",
+    "country_code":"IT",
+    "lat":44.822846,
+    "lon":11.649243,
+    "label":"Ferrara (IT)"
+  },
+  {
+    "id":"IT071C",
+    "city":"Rimini",
+    "country_code":"IT",
+    "lat":44.038834,
+    "lon":12.53045,
+    "label":"Rimini (IT)"
+  },
+  {
+    "id":"IT072C",
+    "city":"Siracusa",
+    "country_code":"IT",
+    "lat":37.039318,
+    "lon":15.21368,
+    "label":"Siracusa (IT)"
+  },
+  {
+    "id":"IT073C",
+    "city":"Bergamo (greater city)",
+    "country_code":"IT",
+    "lat":45.711134,
+    "lon":9.676783,
+    "label":"Bergamo (greater city) (IT)"
+  },
+  {
+    "id":"IT074C",
+    "city":"Forlì",
+    "country_code":"IT",
+    "lat":44.227412,
+    "lon":12.049826,
+    "label":"Forlì (IT)"
+  },
+  {
+    "id":"IT075C",
+    "city":"Latina",
+    "country_code":"IT",
+    "lat":41.466413,
+    "lon":12.877891,
+    "label":"Latina (IT)"
+  },
+  {
+    "id":"IT076C",
+    "city":"Vicenza",
+    "country_code":"IT",
+    "lat":45.54495,
+    "lon":11.554006,
+    "label":"Vicenza (IT)"
+  },
+  {
+    "id":"IT077C",
+    "city":"Terni",
+    "country_code":"IT",
+    "lat":42.57958,
+    "lon":12.660577,
+    "label":"Terni (IT)"
+  },
+  {
+    "id":"IT078C",
+    "city":"Novara",
+    "country_code":"IT",
+    "lat":45.439596,
+    "lon":8.615677,
+    "label":"Novara (IT)"
+  },
+  {
+    "id":"IT079C",
+    "city":"Alessandria",
+    "country_code":"IT",
+    "lat":44.910893,
+    "lon":8.574691,
+    "label":"Alessandria (IT)"
+  },
+  {
+    "id":"IT080C",
+    "city":"Arezzo",
+    "country_code":"IT",
+    "lat":43.445088,
+    "lon":11.904339,
+    "label":"Arezzo (IT)"
+  },
+  {
+    "id":"IT081C",
+    "city":"Grosseto",
+    "country_code":"IT",
+    "lat":42.767276,
+    "lon":11.090302,
+    "label":"Grosseto (IT)"
+  },
+  {
+    "id":"IT082C",
+    "city":"Brindisi",
+    "country_code":"IT",
+    "lat":40.60616,
+    "lon":17.898702,
+    "label":"Brindisi (IT)"
+  },
+  {
+    "id":"IT083C",
+    "city":"Trapani",
+    "country_code":"IT",
+    "lat":37.916551,
+    "lon":12.702264,
+    "label":"Trapani (IT)"
+  },
+  {
+    "id":"IT084C",
+    "city":"Ragusa",
+    "country_code":"IT",
+    "lat":36.907021,
+    "lon":14.664198,
+    "label":"Ragusa (IT)"
+  },
+  {
+    "id":"IT085C",
+    "city":"Andria",
+    "country_code":"IT",
+    "lat":41.157279,
+    "lon":16.235529,
+    "label":"Andria (IT)"
+  },
+  {
+    "id":"IT086C",
+    "city":"Trani",
+    "country_code":"IT",
+    "lat":41.239133,
+    "lon":16.389545,
+    "label":"Trani (IT)"
+  },
+  {
+    "id":"IT087C",
+    "city":"L'Aquila",
+    "country_code":"IT",
+    "lat":42.396129,
+    "lon":13.425364,
+    "label":"L'Aquila (IT)"
+  },
+  {
+    "id":"IT088C",
+    "city":"Vigevano",
+    "country_code":"IT",
+    "lat":45.307731,
+    "lon":8.868141,
+    "label":"Vigevano (IT)"
+  },
+  {
+    "id":"IT089C",
+    "city":"Guidonia Montecelio (greater city)",
+    "country_code":"IT",
+    "lat":41.972569,
+    "lon":12.687899,
+    "label":"Guidonia Montecelio (greater city) (IT)"
+  },
+  {
+    "id":"IT090C",
+    "city":"Tivoli",
+    "country_code":"IT",
+    "lat":41.957009,
+    "lon":12.784582,
+    "label":"Tivoli (IT)"
+  },
+  {
+    "id":"LT001C",
+    "city":"Vilnius",
+    "country_code":"LT",
+    "lat":54.692574,
+    "lon":25.27244,
+    "label":"Vilnius (LT)"
+  },
+  {
+    "id":"LT002C",
+    "city":"Kaunas",
+    "country_code":"LT",
+    "lat":54.899316,
+    "lon":23.932363,
+    "label":"Kaunas (LT)"
+  },
+  {
+    "id":"LT003C",
+    "city":"Panevėžys",
+    "country_code":"LT",
+    "lat":55.730411,
+    "lon":24.346768,
+    "label":"Panevėžys (LT)"
+  },
+  {
+    "id":"LT004C",
+    "city":"Alytus",
+    "country_code":"LT",
+    "lat":54.401083,
+    "lon":24.036202,
+    "label":"Alytus (LT)"
+  },
+  {
+    "id":"LT005C",
+    "city":"Klaipėda",
+    "country_code":"LT",
+    "lat":55.70928,
+    "lon":21.155834,
+    "label":"Klaipėda (LT)"
+  },
+  {
+    "id":"LT006C",
+    "city":"Šiauliai",
+    "country_code":"LT",
+    "lat":55.905398,
+    "lon":23.323895,
+    "label":"Šiauliai (LT)"
+  },
+  {
+    "id":"LU001C",
+    "city":"Luxembourg (greater city)",
+    "country_code":"LU",
+    "lat":49.607343,
+    "lon":6.118291,
+    "label":"Luxembourg (greater city) (LU)"
+  },
+  {
+    "id":"LV001C",
+    "city":"Riga",
+    "country_code":"LV",
+    "lat":56.978083,
+    "lon":24.122315,
+    "label":"Riga (LV)"
+  },
+  {
+    "id":"LV002C",
+    "city":"Liepāja",
+    "country_code":"LV",
+    "lat":56.540965,
+    "lon":21.036151,
+    "label":"Liepāja (LV)"
+  },
+  {
+    "id":"LV004C",
+    "city":"Daugavpils",
+    "country_code":"LV",
+    "lat":55.874217,
+    "lon":26.537087,
+    "label":"Daugavpils (LV)"
+  },
+  {
+    "id":"MT001C",
+    "city":"Greater Valletta",
+    "country_code":"MT",
+    "lat":35.884965,
+    "lon":14.479927,
+    "label":"Greater Valletta (MT)"
+  },
+  {
+    "id":"NL001C",
+    "city":"Amsterdam",
+    "country_code":"NL",
+    "lat":52.365947,
+    "lon":4.912212,
+    "label":"Amsterdam (NL)"
+  },
+  {
+    "id":"NL002C",
+    "city":"Alkmaar",
+    "country_code":"NL",
+    "lat":52.631043,
+    "lon":4.810239,
+    "label":"Alkmaar (NL)"
+  },
+  {
+    "id":"NL003C",
+    "city":"Almelo",
+    "country_code":"NL",
+    "lat":52.347922,
+    "lon":6.658207,
+    "label":"Almelo (NL)"
+  },
+  {
+    "id":"NL004C",
+    "city":"Almere",
+    "country_code":"NL",
+    "lat":52.39637,
+    "lon":5.219819,
+    "label":"Almere (NL)"
+  },
+  {
+    "id":"NL005C",
+    "city":"Alphen aan den Rijn",
+    "country_code":"NL",
+    "lat":52.113299,
+    "lon":4.64096,
+    "label":"Alphen aan den Rijn (NL)"
+  },
+  {
+    "id":"NL006C",
+    "city":"Amersfoort",
+    "country_code":"NL",
+    "lat":52.173656,
+    "lon":5.38467,
+    "label":"Amersfoort (NL)"
+  },
+  {
+    "id":"NL007C",
+    "city":"Apeldoorn",
+    "country_code":"NL",
+    "lat":52.189884,
+    "lon":5.921886,
+    "label":"Apeldoorn (NL)"
+  },
+  {
+    "id":"NL008C",
+    "city":"Arnhem",
+    "country_code":"NL",
+    "lat":52.001091,
+    "lon":5.892579,
+    "label":"Arnhem (NL)"
+  },
+  {
+    "id":"NL009C",
+    "city":"Assen",
+    "country_code":"NL",
+    "lat":53.00128,
+    "lon":6.552468,
+    "label":"Assen (NL)"
+  },
+  {
+    "id":"NL010C",
+    "city":"Bergen op Zoom",
+    "country_code":"NL",
+    "lat":51.503482,
+    "lon":4.288287,
+    "label":"Bergen op Zoom (NL)"
+  },
+  {
+    "id":"NL011C",
+    "city":"Breda",
+    "country_code":"NL",
+    "lat":51.585126,
+    "lon":4.761396,
+    "label":"Breda (NL)"
+  },
+  {
+    "id":"NL012C",
+    "city":"Deventer",
+    "country_code":"NL",
+    "lat":52.268237,
+    "lon":6.23592,
+    "label":"Deventer (NL)"
+  },
+  {
+    "id":"NL013C",
+    "city":"Ede",
+    "country_code":"NL",
+    "lat":52.076406,
+    "lon":5.728046,
+    "label":"Ede (NL)"
+  },
+  {
+    "id":"NL014C",
+    "city":"Eindhoven",
+    "country_code":"NL",
+    "lat":51.440099,
+    "lon":5.43871,
+    "label":"Eindhoven (NL)"
+  },
+  {
+    "id":"NL015C",
+    "city":"Enschede",
+    "country_code":"NL",
+    "lat":52.220807,
+    "lon":6.877789,
+    "label":"Enschede (NL)"
+  },
+  {
+    "id":"NL016C",
+    "city":"Gouda",
+    "country_code":"NL",
+    "lat":52.015285,
+    "lon":4.706203,
+    "label":"Gouda (NL)"
+  },
+  {
+    "id":"NL017C",
+    "city":"'s-Gravenhage",
+    "country_code":"NL",
+    "lat":52.037266,
+    "lon":4.331904,
+    "label":"'s-Gravenhage (NL)"
+  },
+  {
+    "id":"NL018C",
+    "city":"Groningen",
+    "country_code":"NL",
+    "lat":53.218629,
+    "lon":6.620663,
+    "label":"Groningen (NL)"
+  },
+  {
+    "id":"NL019C",
+    "city":"Haarlem",
+    "country_code":"NL",
+    "lat":52.378078,
+    "lon":4.613487,
+    "label":"Haarlem (NL)"
+  },
+  {
+    "id":"NL020C",
+    "city":"Haarlemmermeer",
+    "country_code":"NL",
+    "lat":52.308071,
+    "lon":4.686623,
+    "label":"Haarlemmermeer (NL)"
+  },
+  {
+    "id":"NL021C",
+    "city":"Heemskerk",
+    "country_code":"NL",
+    "lat":52.508042,
+    "lon":4.675861,
+    "label":"Heemskerk (NL)"
+  },
+  {
+    "id":"NL022C",
+    "city":"Heerlen",
+    "country_code":"NL",
+    "lat":50.906863,
+    "lon":5.989042,
+    "label":"Heerlen (NL)"
+  },
+  {
+    "id":"NL023C",
+    "city":"Helmond",
+    "country_code":"NL",
+    "lat":51.476152,
+    "lon":5.656954,
+    "label":"Helmond (NL)"
+  },
+  {
+    "id":"NL024C",
+    "city":"Hengelo",
+    "country_code":"NL",
+    "lat":52.266308,
+    "lon":6.77726,
+    "label":"Hengelo (NL)"
+  },
+  {
+    "id":"NL025C",
+    "city":"'s-Hertogenbosch",
+    "country_code":"NL",
+    "lat":51.716782,
+    "lon":5.351946,
+    "label":"'s-Hertogenbosch (NL)"
+  },
+  {
+    "id":"NL026C",
+    "city":"Hilversum",
+    "country_code":"NL",
+    "lat":52.223196,
+    "lon":5.168025,
+    "label":"Hilversum (NL)"
+  },
+  {
+    "id":"NL027C",
+    "city":"Hoorn",
+    "country_code":"NL",
+    "lat":52.62989,
+    "lon":5.071923,
+    "label":"Hoorn (NL)"
+  },
+  {
+    "id":"NL028C",
+    "city":"Leeuwarden",
+    "country_code":"NL",
+    "lat":53.170068,
+    "lon":5.79787,
+    "label":"Leeuwarden (NL)"
+  },
+  {
+    "id":"NL029C",
+    "city":"Leiden",
+    "country_code":"NL",
+    "lat":52.165117,
+    "lon":4.465725,
+    "label":"Leiden (NL)"
+  },
+  {
+    "id":"NL030C",
+    "city":"Lelystad",
+    "country_code":"NL",
+    "lat":52.542782,
+    "lon":5.37466,
+    "label":"Lelystad (NL)"
+  },
+  {
+    "id":"NL031C",
+    "city":"Maastricht",
+    "country_code":"NL",
+    "lat":50.852973,
+    "lon":5.699499,
+    "label":"Maastricht (NL)"
+  },
+  {
+    "id":"NL033C",
+    "city":"Nijmegen",
+    "country_code":"NL",
+    "lat":51.838603,
+    "lon":5.836844,
+    "label":"Nijmegen (NL)"
+  },
+  {
+    "id":"NL034C",
+    "city":"Nissewaard",
+    "country_code":"NL",
+    "lat":51.836201,
+    "lon":4.315959,
+    "label":"Nissewaard (NL)"
+  },
+  {
+    "id":"NL035C",
+    "city":"Oss",
+    "country_code":"NL",
+    "lat":51.781539,
+    "lon":5.526448,
+    "label":"Oss (NL)"
+  },
+  {
+    "id":"NL036C",
+    "city":"Purmerend",
+    "country_code":"NL",
+    "lat":52.543551,
+    "lon":4.930663,
+    "label":"Purmerend (NL)"
+  },
+  {
+    "id":"NL037C",
+    "city":"Rotterdam",
+    "country_code":"NL",
+    "lat":51.922938,
+    "lon":4.422536,
+    "label":"Rotterdam (NL)"
+  },
+  {
+    "id":"NL038C",
+    "city":"Roosendaal",
+    "country_code":"NL",
+    "lat":51.513184,
+    "lon":4.424524,
+    "label":"Roosendaal (NL)"
+  },
+  {
+    "id":"NL039C",
+    "city":"Sittard-Geleen",
+    "country_code":"NL",
+    "lat":50.989615,
+    "lon":5.824267,
+    "label":"Sittard-Geleen (NL)"
+  },
+  {
+    "id":"NL040C",
+    "city":"Soest",
+    "country_code":"NL",
+    "lat":52.175994,
+    "lon":5.282922,
+    "label":"Soest (NL)"
+  },
+  {
+    "id":"NL041C",
+    "city":"Tilburg",
+    "country_code":"NL",
+    "lat":51.565498,
+    "lon":5.066233,
+    "label":"Tilburg (NL)"
+  },
+  {
+    "id":"NL042C",
+    "city":"Utrecht",
+    "country_code":"NL",
+    "lat":52.071242,
+    "lon":5.071433,
+    "label":"Utrecht (NL)"
+  },
+  {
+    "id":"NL043C",
+    "city":"Veenendaal",
+    "country_code":"NL",
+    "lat":52.023638,
+    "lon":5.555588,
+    "label":"Veenendaal (NL)"
+  },
+  {
+    "id":"NL044C",
+    "city":"Venlo",
+    "country_code":"NL",
+    "lat":51.420039,
+    "lon":6.18776,
+    "label":"Venlo (NL)"
+  },
+  {
+    "id":"NL045C",
+    "city":"Zaanstad",
+    "country_code":"NL",
+    "lat":52.476727,
+    "lon":4.801924,
+    "label":"Zaanstad (NL)"
+  },
+  {
+    "id":"NL046C",
+    "city":"Zoetermeer",
+    "country_code":"NL",
+    "lat":52.060884,
+    "lon":4.489769,
+    "label":"Zoetermeer (NL)"
+  },
+  {
+    "id":"NL047C",
+    "city":"Zwolle",
+    "country_code":"NL",
+    "lat":52.518696,
+    "lon":6.118377,
+    "label":"Zwolle (NL)"
+  },
+  {
+    "id":"NL048C",
+    "city":"Lansingerland",
+    "country_code":"NL",
+    "lat":52.009525,
+    "lon":4.471882,
+    "label":"Lansingerland (NL)"
+  },
+  {
+    "id":"NO001C",
+    "city":"Oslo",
+    "country_code":"NO",
+    "lat":60.62923,
+    "lon":9.043274,
+    "label":"Oslo (NO)"
+  },
+  {
+    "id":"NO002C",
+    "city":"Bergen",
+    "country_code":"NO",
+    "lat":60.358614,
+    "lon":5.428767,
+    "label":"Bergen (NO)"
+  },
+  {
+    "id":"NO003C",
+    "city":"Trondheim",
+    "country_code":"NO",
+    "lat":63.340414,
+    "lon":10.432336,
+    "label":"Trondheim (NO)"
+  },
+  {
+    "id":"NO004C",
+    "city":"Stavanger",
+    "country_code":"NO",
+    "lat":58.940703,
+    "lon":6.299537,
+    "label":"Stavanger (NO)"
+  },
+  {
+    "id":"PL001C",
+    "city":"Warszawa",
+    "country_code":"PL",
+    "lat":52.229335,
+    "lon":21.047741,
+    "label":"Warszawa (PL)"
+  },
+  {
+    "id":"PL002C",
+    "city":"Łódź",
+    "country_code":"PL",
+    "lat":51.766491,
+    "lon":19.480271,
+    "label":"Łódź (PL)"
+  },
+  {
+    "id":"PL003C",
+    "city":"Kraków",
+    "country_code":"PL",
+    "lat":50.053164,
+    "lon":19.985071,
+    "label":"Kraków (PL)"
+  },
+  {
+    "id":"PL004C",
+    "city":"Wrocław",
+    "country_code":"PL",
+    "lat":51.127693,
+    "lon":16.99607,
+    "label":"Wrocław (PL)"
+  },
+  {
+    "id":"PL005C",
+    "city":"Poznań",
+    "country_code":"PL",
+    "lat":52.406459,
+    "lon":16.923096,
+    "label":"Poznań (PL)"
+  },
+  {
+    "id":"PL006C",
+    "city":"Gdańsk",
+    "country_code":"PL",
+    "lat":54.359199,
+    "lon":18.634787,
+    "label":"Gdańsk (PL)"
+  },
+  {
+    "id":"PL007C",
+    "city":"Szczecin",
+    "country_code":"PL",
+    "lat":53.431803,
+    "lon":14.614149,
+    "label":"Szczecin (PL)"
+  },
+  {
+    "id":"PL008C",
+    "city":"Bydgoszcz",
+    "country_code":"PL",
+    "lat":53.13129,
+    "lon":18.052585,
+    "label":"Bydgoszcz (PL)"
+  },
+  {
+    "id":"PL009C",
+    "city":"Lublin",
+    "country_code":"PL",
+    "lat":51.225759,
+    "lon":22.556624,
+    "label":"Lublin (PL)"
+  },
+  {
+    "id":"PL010C",
+    "city":"Katowice",
+    "country_code":"PL",
+    "lat":50.218018,
+    "lon":19.023145,
+    "label":"Katowice (PL)"
+  },
+  {
+    "id":"PL011C",
+    "city":"Białystok",
+    "country_code":"PL",
+    "lat":53.132221,
+    "lon":23.158813,
+    "label":"Białystok (PL)"
+  },
+  {
+    "id":"PL012C",
+    "city":"Kielce",
+    "country_code":"PL",
+    "lat":50.860986,
+    "lon":20.608951,
+    "label":"Kielce (PL)"
+  },
+  {
+    "id":"PL013C",
+    "city":"Toruń",
+    "country_code":"PL",
+    "lat":53.021099,
+    "lon":18.618904,
+    "label":"Toruń (PL)"
+  },
+  {
+    "id":"PL014C",
+    "city":"Olsztyn",
+    "country_code":"PL",
+    "lat":53.781723,
+    "lon":20.474158,
+    "label":"Olsztyn (PL)"
+  },
+  {
+    "id":"PL015C",
+    "city":"Rzeszów",
+    "country_code":"PL",
+    "lat":50.022125,
+    "lon":21.994651,
+    "label":"Rzeszów (PL)"
+  },
+  {
+    "id":"PL016C",
+    "city":"Opole",
+    "country_code":"PL",
+    "lat":50.679374,
+    "lon":17.917741,
+    "label":"Opole (PL)"
+  },
+  {
+    "id":"PL017C",
+    "city":"Gorzów Wielkopolski",
+    "country_code":"PL",
+    "lat":52.731431,
+    "lon":15.219486,
+    "label":"Gorzów Wielkopolski (PL)"
+  },
+  {
+    "id":"PL018C",
+    "city":"Zielona Góra",
+    "country_code":"PL",
+    "lat":51.925876,
+    "lon":15.531826,
+    "label":"Zielona Góra (PL)"
+  },
+  {
+    "id":"PL019C",
+    "city":"Jelenia Góra",
+    "country_code":"PL",
+    "lat":50.895325,
+    "lon":15.727581,
+    "label":"Jelenia Góra (PL)"
+  },
+  {
+    "id":"PL020C",
+    "city":"Nowy Sącz",
+    "country_code":"PL",
+    "lat":49.607438,
+    "lon":20.704695,
+    "label":"Nowy Sącz (PL)"
+  },
+  {
+    "id":"PL021C",
+    "city":"Suwałki",
+    "country_code":"PL",
+    "lat":54.099941,
+    "lon":22.931709,
+    "label":"Suwałki (PL)"
+  },
+  {
+    "id":"PL022C",
+    "city":"Konin",
+    "country_code":"PL",
+    "lat":52.255407,
+    "lon":18.262205,
+    "label":"Konin (PL)"
+  },
+  {
+    "id":"PL024C",
+    "city":"Częstochowa",
+    "country_code":"PL",
+    "lat":50.805255,
+    "lon":19.118283,
+    "label":"Częstochowa (PL)"
+  },
+  {
+    "id":"PL025C",
+    "city":"Radom",
+    "country_code":"PL",
+    "lat":51.406219,
+    "lon":21.156574,
+    "label":"Radom (PL)"
+  },
+  {
+    "id":"PL026C",
+    "city":"Płock",
+    "country_code":"PL",
+    "lat":52.537551,
+    "lon":19.701561,
+    "label":"Płock (PL)"
+  },
+  {
+    "id":"PL027C",
+    "city":"Kalisz",
+    "country_code":"PL",
+    "lat":51.743944,
+    "lon":18.076075,
+    "label":"Kalisz (PL)"
+  },
+  {
+    "id":"PL028C",
+    "city":"Koszalin",
+    "country_code":"PL",
+    "lat":54.212313,
+    "lon":16.163256,
+    "label":"Koszalin (PL)"
+  },
+  {
+    "id":"PL029C",
+    "city":"Słupsk",
+    "country_code":"PL",
+    "lat":54.465017,
+    "lon":17.03182,
+    "label":"Słupsk (PL)"
+  },
+  {
+    "id":"PL030C",
+    "city":"Jastrzębie-Zdrój",
+    "country_code":"PL",
+    "lat":49.93923,
+    "lon":18.600534,
+    "label":"Jastrzębie-Zdrój (PL)"
+  },
+  {
+    "id":"PL031C",
+    "city":"Siedlce",
+    "country_code":"PL",
+    "lat":52.165064,
+    "lon":22.271239,
+    "label":"Siedlce (PL)"
+  },
+  {
+    "id":"PL032C",
+    "city":"Piotrków Trybunalski",
+    "country_code":"PL",
+    "lat":51.414877,
+    "lon":19.705717,
+    "label":"Piotrków Trybunalski (PL)"
+  },
+  {
+    "id":"PL033C",
+    "city":"Lubin",
+    "country_code":"PL",
+    "lat":51.399667,
+    "lon":16.195631,
+    "label":"Lubin (PL)"
+  },
+  {
+    "id":"PL034C",
+    "city":"Piła",
+    "country_code":"PL",
+    "lat":53.145551,
+    "lon":16.763032,
+    "label":"Piła (PL)"
+  },
+  {
+    "id":"DE149C",
+    "city":"Göppingen (greater city)",
+    "country_code":"DE",
+    "lat":48.702562,
+    "lon":9.692985,
+    "label":"Göppingen (greater city) (DE)"
+  },
+  {
+    "id":"DE150C",
+    "city":"Waiblingen (greater city)",
+    "country_code":"DE",
+    "lat":48.832668,
+    "lon":9.316074,
+    "label":"Waiblingen (greater city) (DE)"
+  },
+  {
+    "id":"DE151C",
+    "city":"Lörrach (greater city)",
+    "country_code":"DE",
+    "lat":47.620744,
+    "lon":7.659758,
+    "label":"Lörrach (greater city) (DE)"
+  },
+  {
+    "id":"DK001C",
+    "city":"København",
+    "country_code":"DK",
+    "lat":55.718981,
+    "lon":12.514253,
+    "label":"København (DK)"
+  },
+  {
+    "id":"DK002C",
+    "city":"Århus",
+    "country_code":"DK",
+    "lat":56.162654,
+    "lon":10.156991,
+    "label":"Århus (DK)"
+  },
+  {
+    "id":"DK003C",
+    "city":"Odense",
+    "country_code":"DK",
+    "lat":55.367777,
+    "lon":10.376127,
+    "label":"Odense (DK)"
+  },
+  {
+    "id":"DK004C",
+    "city":"Aalborg",
+    "country_code":"DK",
+    "lat":56.96305,
+    "lon":9.892692,
+    "label":"Aalborg (DK)"
+  },
+  {
+    "id":"EE001C",
+    "city":"Tallinn",
+    "country_code":"EE",
+    "lat":59.40595,
+    "lon":24.738563,
+    "label":"Tallinn (EE)"
+  },
+  {
+    "id":"EE002C",
+    "city":"Tartu",
+    "country_code":"EE",
+    "lat":58.401692,
+    "lon":26.627622,
+    "label":"Tartu (EE)"
+  },
+  {
+    "id":"EE003C",
+    "city":"Narva",
+    "country_code":"EE",
+    "lat":59.347631,
+    "lon":28.113851,
+    "label":"Narva (EE)"
+  },
+  {
+    "id":"EL001C",
+    "city":"Athina",
+    "country_code":"EL",
+    "lat":38.022866,
+    "lon":23.755895,
+    "label":"Athina (EL)"
+  },
+  {
+    "id":"EL002C",
+    "city":"Thessaloniki",
+    "country_code":"EL",
+    "lat":40.637958,
+    "lon":22.952359,
+    "label":"Thessaloniki (EL)"
+  },
+  {
+    "id":"EL003C",
+    "city":"Pátra",
+    "country_code":"EL",
+    "lat":38.234154,
+    "lon":21.751119,
+    "label":"Pátra (EL)"
+  },
+  {
+    "id":"EL004C",
+    "city":"Irakleio",
+    "country_code":"EL",
+    "lat":35.309871,
+    "lon":25.110961,
+    "label":"Irakleio (EL)"
+  },
+  {
+    "id":"EL005C",
+    "city":"Larisa",
+    "country_code":"EL",
+    "lat":39.633559,
+    "lon":22.432244,
+    "label":"Larisa (EL)"
+  },
+  {
+    "id":"EL006C",
+    "city":"Volos",
+    "country_code":"EL",
+    "lat":39.372449,
+    "lon":22.951137,
+    "label":"Volos (EL)"
+  },
+  {
+    "id":"EL007C",
+    "city":"Ioannina",
+    "country_code":"EL",
+    "lat":39.657471,
+    "lon":20.872354,
+    "label":"Ioannina (EL)"
+  },
+  {
+    "id":"EL008C",
+    "city":"Kavala",
+    "country_code":"EL",
+    "lat":40.957562,
+    "lon":24.430341,
+    "label":"Kavala (EL)"
+  },
+  {
+    "id":"EL009C",
+    "city":"Kalamata",
+    "country_code":"EL",
+    "lat":37.053436,
+    "lon":22.118204,
+    "label":"Kalamata (EL)"
+  },
+  {
+    "id":"EL010C",
+    "city":"Trikala",
+    "country_code":"EL",
+    "lat":39.555189,
+    "lon":21.761971,
+    "label":"Trikala (EL)"
+  },
+  {
+    "id":"EL011C",
+    "city":"Serres",
+    "country_code":"EL",
+    "lat":41.07406,
+    "lon":23.540724,
+    "label":"Serres (EL)"
+  },
+  {
+    "id":"EL012C",
+    "city":"Katerini",
+    "country_code":"EL",
+    "lat":40.261431,
+    "lon":22.519618,
+    "label":"Katerini (EL)"
+  },
+  {
+    "id":"EL013C",
+    "city":"Xanthi",
+    "country_code":"EL",
+    "lat":41.127915,
+    "lon":24.88293,
+    "label":"Xanthi (EL)"
+  },
+  {
+    "id":"EL014C",
+    "city":"Chania",
+    "country_code":"EL",
+    "lat":35.491085,
+    "lon":24.031809,
+    "label":"Chania (EL)"
+  },
+  {
+    "id":"EL015C",
+    "city":"Chalkida",
+    "country_code":"EL",
+    "lat":38.473956,
+    "lon":23.640655,
+    "label":"Chalkida (EL)"
+  },
+  {
+    "id":"ES001C",
+    "city":"Madrid",
+    "country_code":"ES",
+    "lat":40.443478,
+    "lon":-3.707822,
+    "label":"Madrid (ES)"
+  },
+  {
+    "id":"ES002C",
+    "city":"Barcelona",
+    "country_code":"ES",
+    "lat":41.416207,
+    "lon":2.165944,
+    "label":"Barcelona (ES)"
+  },
+  {
+    "id":"ES003C",
+    "city":"Valencia",
+    "country_code":"ES",
+    "lat":39.471303,
+    "lon":-0.444767,
+    "label":"Valencia (ES)"
+  },
+  {
+    "id":"ES004C",
+    "city":"Sevilla",
+    "country_code":"ES",
+    "lat":37.392878,
+    "lon":-5.955938,
+    "label":"Sevilla (ES)"
+  },
+  {
+    "id":"ES109C",
+    "city":"Las Rozas de Madrid",
+    "country_code":"ES",
+    "lat":40.500676,
+    "lon":-3.893071,
+    "label":"Las Rozas de Madrid (ES)"
+  },
+  {
+    "id":"ES110C",
+    "city":"Castelldefels",
+    "country_code":"ES",
+    "lat":41.276708,
+    "lon":1.970598,
+    "label":"Castelldefels (ES)"
+  },
+  {
+    "id":"ES111C",
+    "city":"Viladecans",
+    "country_code":"ES",
+    "lat":41.297935,
+    "lon":2.002491,
+    "label":"Viladecans (ES)"
+  },
+  {
+    "id":"ES112C",
+    "city":"Prat de Llobregat, El",
+    "country_code":"ES",
+    "lat":41.310284,
+    "lon":2.096067,
+    "label":"Prat de Llobregat, El (ES)"
+  },
+  {
+    "id":"ES113C",
+    "city":"Sant Boi de Llobregat",
+    "country_code":"ES",
+    "lat":41.334882,
+    "lon":2.041955,
+    "label":"Sant Boi de Llobregat (ES)"
+  },
+  {
+    "id":"ES114C",
+    "city":"Sant Cugat del Vallès",
+    "country_code":"ES",
+    "lat":41.477828,
+    "lon":2.049698,
+    "label":"Sant Cugat del Vallès (ES)"
+  },
+  {
+    "id":"ES115C",
+    "city":"Premià de Mar",
+    "country_code":"ES",
+    "lat":41.516396,
+    "lon":2.357503,
+    "label":"Premià de Mar (ES)"
+  },
+  {
+    "id":"ES116C",
+    "city":"Sabadell",
+    "country_code":"ES",
+    "lat":41.514339,
+    "lon":2.12349,
+    "label":"Sabadell (ES)"
+  },
+  {
+    "id":"ES117C",
+    "city":"Terrassa",
+    "country_code":"ES",
+    "lat":41.575377,
+    "lon":2.007985,
+    "label":"Terrassa (ES)"
+  },
+  {
+    "id":"ES118C",
+    "city":"Huesca",
+    "country_code":"ES",
+    "lat":42.127931,
+    "lon":-0.429883,
+    "label":"Huesca (ES)"
+  },
+  {
+    "id":"FI001C",
+    "city":"Helsinki\/Helsingfors",
+    "country_code":"FI",
+    "lat":60.233631,
+    "lon":25.042939,
+    "label":"Helsinki\/Helsingfors (FI)"
+  },
+  {
+    "id":"FI002C",
+    "city":"Tampere\/Tammerfors",
+    "country_code":"FI",
+    "lat":61.629361,
+    "lon":23.881394,
+    "label":"Tampere\/Tammerfors (FI)"
+  },
+  {
+    "id":"FI003C",
+    "city":"Turku\/Åbo",
+    "country_code":"FI",
+    "lat":60.529009,
+    "lon":22.322313,
+    "label":"Turku\/Åbo (FI)"
+  },
+  {
+    "id":"FI004C",
+    "city":"Oulu\/Uleåborg",
+    "country_code":"FI",
+    "lat":65.131945,
+    "lon":25.998225,
+    "label":"Oulu\/Uleåborg (FI)"
+  },
+  {
+    "id":"FI005C",
+    "city":"Espoo\/Esbo",
+    "country_code":"FI",
+    "lat":60.243178,
+    "lon":24.667749,
+    "label":"Espoo\/Esbo (FI)"
+  },
+  {
+    "id":"FI006C",
+    "city":"Vantaa\/Vanda",
+    "country_code":"FI",
+    "lat":60.326462,
+    "lon":24.857934,
+    "label":"Vantaa\/Vanda (FI)"
+  },
+  {
+    "id":"FI007C",
+    "city":"Lahti\/Lahtis",
+    "country_code":"FI",
+    "lat":60.98975,
+    "lon":25.864687,
+    "label":"Lahti\/Lahtis (FI)"
+  },
+  {
+    "id":"FI008C",
+    "city":"Kuopio",
+    "country_code":"FI",
+    "lat":62.815923,
+    "lon":27.82627,
+    "label":"Kuopio (FI)"
+  },
+  {
+    "id":"FI009C",
+    "city":"Jyväskylä",
+    "country_code":"FI",
+    "lat":61.966064,
+    "lon":25.656061,
+    "label":"Jyväskylä (FI)"
+  },
+  {
+    "id":"FR001C",
+    "city":"Paris",
+    "country_code":"FR",
+    "lat":48.840598,
+    "lon":2.31488,
+    "label":"Paris (FR)"
+  },
+  {
+    "id":"FR002C",
+    "city":"Lyon",
+    "country_code":"FR",
+    "lat":45.740721,
+    "lon":4.874182,
+    "label":"Lyon (FR)"
+  },
+  {
+    "id":"FR003C",
+    "city":"Lille",
+    "country_code":"FR",
+    "lat":50.631958,
+    "lon":3.100874,
+    "label":"Lille (FR)"
+  },
+  {
+    "id":"FR004C",
+    "city":"Marseille",
+    "country_code":"FR",
+    "lat":43.302938,
+    "lon":5.458693,
+    "label":"Marseille (FR)"
+  },
+  {
+    "id":"FR005C",
+    "city":"Bordeaux",
+    "country_code":"FR",
+    "lat":44.842996,
+    "lon":-0.657575,
+    "label":"Bordeaux (FR)"
+  },
+  {
+    "id":"FR006C",
+    "city":"Toulouse",
+    "country_code":"FR",
+    "lat":43.604643,
+    "lon":1.402623,
+    "label":"Toulouse (FR)"
+  },
+  {
+    "id":"FR007C",
+    "city":"Nantes",
+    "country_code":"FR",
+    "lat":47.23043,
+    "lon":-1.575506,
+    "label":"Nantes (FR)"
+  },
+  {
+    "id":"FR008C",
+    "city":"Nice",
+    "country_code":"FR",
+    "lat":43.70073,
+    "lon":7.219541,
+    "label":"Nice (FR)"
+  },
+  {
+    "id":"FR009C",
+    "city":"Strasbourg",
+    "country_code":"FR",
+    "lat":48.56738,
+    "lon":7.746097,
+    "label":"Strasbourg (FR)"
+  },
+  {
+    "id":"FR010C",
+    "city":"Rouen",
+    "country_code":"FR",
+    "lat":49.43255,
+    "lon":1.090144,
+    "label":"Rouen (FR)"
+  },
+  {
+    "id":"FR011C",
+    "city":"Montpellier",
+    "country_code":"FR",
+    "lat":43.624805,
+    "lon":3.850473,
+    "label":"Montpellier (FR)"
+  },
+  {
+    "id":"FR012C",
+    "city":"Grenoble",
+    "country_code":"FR",
+    "lat":45.176841,
+    "lon":5.728502,
+    "label":"Grenoble (FR)"
+  },
+  {
+    "id":"FR013C",
+    "city":"Tours",
+    "country_code":"FR",
+    "lat":47.368223,
+    "lon":0.688849,
+    "label":"Tours (FR)"
+  },
+  {
+    "id":"FR014C",
+    "city":"Cannes-Antibes",
+    "country_code":"FR",
+    "lat":43.562932,
+    "lon":7.010258,
+    "label":"Cannes-Antibes (FR)"
+  },
+  {
+    "id":"FR015C",
+    "city":"Toulon",
+    "country_code":"FR",
+    "lat":43.13729,
+    "lon":5.962966,
+    "label":"Toulon (FR)"
+  },
+  {
+    "id":"FR016C",
+    "city":"Rennes",
+    "country_code":"FR",
+    "lat":48.114099,
+    "lon":-1.657031,
+    "label":"Rennes (FR)"
+  },
+  {
+    "id":"ES005C",
+    "city":"Zaragoza",
+    "country_code":"ES",
+    "lat":41.681458,
+    "lon":-0.926551,
+    "label":"Zaragoza (ES)"
+  },
+  {
+    "id":"ES006C",
+    "city":"Málaga",
+    "country_code":"ES",
+    "lat":36.767666,
+    "lon":-4.424485,
+    "label":"Málaga (ES)"
+  },
+  {
+    "id":"ES007C",
+    "city":"Murcia",
+    "country_code":"ES",
+    "lat":37.925018,
+    "lon":-1.109883,
+    "label":"Murcia (ES)"
+  },
+  {
+    "id":"ES008C",
+    "city":"Las Palmas",
+    "country_code":"ES",
+    "lat":28.09044,
+    "lon":-15.455543,
+    "label":"Las Palmas (ES)"
+  },
+  {
+    "id":"ES009C",
+    "city":"Valladolid",
+    "country_code":"ES",
+    "lat":41.625436,
+    "lon":-4.744735,
+    "label":"Valladolid (ES)"
+  },
+  {
+    "id":"ES010C",
+    "city":"Palma de Mallorca",
+    "country_code":"ES",
+    "lat":39.558401,
+    "lon":2.776242,
+    "label":"Palma de Mallorca (ES)"
+  },
+  {
+    "id":"ES011C",
+    "city":"Santiago de Compostela",
+    "country_code":"ES",
+    "lat":42.894397,
+    "lon":-8.510762,
+    "label":"Santiago de Compostela (ES)"
+  },
+  {
+    "id":"ES012C",
+    "city":"Vitoria\/Gasteiz",
+    "country_code":"ES",
+    "lat":42.850292,
+    "lon":-2.687892,
+    "label":"Vitoria\/Gasteiz (ES)"
+  },
+  {
+    "id":"ES013C",
+    "city":"Oviedo",
+    "country_code":"ES",
+    "lat":43.371055,
+    "lon":-5.879656,
+    "label":"Oviedo (ES)"
+  },
+  {
+    "id":"ES014C",
+    "city":"Pamplona\/Iruña",
+    "country_code":"ES",
+    "lat":42.807142,
+    "lon":-1.591861,
+    "label":"Pamplona\/Iruña (ES)"
+  },
+  {
+    "id":"ES015C",
+    "city":"Santander",
+    "country_code":"ES",
+    "lat":43.464579,
+    "lon":-3.833067,
+    "label":"Santander (ES)"
+  },
+  {
+    "id":"ES016C",
+    "city":"Toledo",
+    "country_code":"ES",
+    "lat":39.86998,
+    "lon":-4.015151,
+    "label":"Toledo (ES)"
+  },
+  {
+    "id":"ES017C",
+    "city":"Badajoz",
+    "country_code":"ES",
+    "lat":38.867739,
+    "lon":-6.849977,
+    "label":"Badajoz (ES)"
+  },
+  {
+    "id":"ES018C",
+    "city":"Logroño",
+    "country_code":"ES",
+    "lat":42.463838,
+    "lon":-2.454346,
+    "label":"Logroño (ES)"
+  },
+  {
+    "id":"ES019C",
+    "city":"Bilbao",
+    "country_code":"ES",
+    "lat":43.291953,
+    "lon":-2.979267,
+    "label":"Bilbao (ES)"
+  },
+  {
+    "id":"ES020C",
+    "city":"Córdoba",
+    "country_code":"ES",
+    "lat":37.849332,
+    "lon":-4.701806,
+    "label":"Córdoba (ES)"
+  },
+  {
+    "id":"ES021C",
+    "city":"Alicante\/Alacant",
+    "country_code":"ES",
+    "lat":38.407148,
+    "lon":-0.500884,
+    "label":"Alicante\/Alacant (ES)"
+  },
+  {
+    "id":"ES022C",
+    "city":"Vigo",
+    "country_code":"ES",
+    "lat":42.202691,
+    "lon":-8.714536,
+    "label":"Vigo (ES)"
+  },
+  {
+    "id":"ES023C",
+    "city":"Gijón",
+    "country_code":"ES",
+    "lat":43.499825,
+    "lon":-5.682375,
+    "label":"Gijón (ES)"
+  },
+  {
+    "id":"ES024C",
+    "city":"Santa Cruz de Tenerife",
+    "country_code":"ES",
+    "lat":28.512007,
+    "lon":-16.265337,
+    "label":"Santa Cruz de Tenerife (ES)"
+  },
+  {
+    "id":"ES025C",
+    "city":"A Coruña",
+    "country_code":"ES",
+    "lat":43.294649,
+    "lon":-8.388359,
+    "label":"A Coruña (ES)"
+  },
+  {
+    "id":"ES026C",
+    "city":"Reus",
+    "country_code":"ES",
+    "lat":41.148803,
+    "lon":1.120122,
+    "label":"Reus (ES)"
+  },
+  {
+    "id":"ES027C",
+    "city":"Telde",
+    "country_code":"ES",
+    "lat":27.983073,
+    "lon":-15.429138,
+    "label":"Telde (ES)"
+  },
+  {
+    "id":"ES028C",
+    "city":"Lugo",
+    "country_code":"ES",
+    "lat":43.001278,
+    "lon":-7.564831,
+    "label":"Lugo (ES)"
+  },
+  {
+    "id":"ES029C",
+    "city":"San Fernando",
+    "country_code":"ES",
+    "lat":36.453858,
+    "lon":-6.204643,
+    "label":"San Fernando (ES)"
+  },
+  {
+    "id":"ES030C",
+    "city":"Girona",
+    "country_code":"ES",
+    "lat":41.982262,
+    "lon":2.821632,
+    "label":"Girona (ES)"
+  },
+  {
+    "id":"ES031C",
+    "city":"Cáceres",
+    "country_code":"ES",
+    "lat":39.357238,
+    "lon":-6.440472,
+    "label":"Cáceres (ES)"
+  },
+  {
+    "id":"ES032C",
+    "city":"Torrevieja",
+    "country_code":"ES",
+    "lat":38.000407,
+    "lon":-0.70463,
+    "label":"Torrevieja (ES)"
+  },
+  {
+    "id":"ES033C",
+    "city":"Puerto de Santa María, El",
+    "country_code":"ES",
+    "lat":36.631169,
+    "lon":-6.234972,
+    "label":"Puerto de Santa María, El (ES)"
+  },
+  {
+    "id":"ES034C",
+    "city":"Avilés",
+    "country_code":"ES",
+    "lat":43.531564,
+    "lon":-5.893739,
+    "label":"Avilés (ES)"
+  },
+  {
+    "id":"ES035C",
+    "city":"Talavera de la Reina",
+    "country_code":"ES",
+    "lat":39.953524,
+    "lon":-4.849513,
+    "label":"Talavera de la Reina (ES)"
+  },
+  {
+    "id":"ES036C",
+    "city":"Palencia",
+    "country_code":"ES",
+    "lat":41.983284,
+    "lon":-4.565298,
+    "label":"Palencia (ES)"
+  },
+  {
+    "id":"ES037C",
+    "city":"Ferrol",
+    "country_code":"ES",
+    "lat":43.522658,
+    "lon":-8.224142,
+    "label":"Ferrol (ES)"
+  },
+  {
+    "id":"ES038C",
+    "city":"Pontevedra",
+    "country_code":"ES",
+    "lat":42.437168,
+    "lon":-8.619554,
+    "label":"Pontevedra (ES)"
+  },
+  {
+    "id":"ES039C",
+    "city":"Ceuta",
+    "country_code":"ES",
+    "lat":35.892352,
+    "lon":-5.356091,
+    "label":"Ceuta (ES)"
+  },
+  {
+    "id":"ES040C",
+    "city":"Gandia",
+    "country_code":"ES",
+    "lat":38.979692,
+    "lon":-0.213257,
+    "label":"Gandia (ES)"
+  },
+  {
+    "id":"ES041C",
+    "city":"Guadalajara",
+    "country_code":"ES",
+    "lat":40.529862,
+    "lon":-3.178821,
+    "label":"Guadalajara (ES)"
+  },
+  {
+    "id":"ES042C",
+    "city":"Manresa",
+    "country_code":"ES",
+    "lat":41.73263,
+    "lon":1.817696,
+    "label":"Manresa (ES)"
+  },
+  {
+    "id":"ES043C",
+    "city":"Ciudad Real",
+    "country_code":"ES",
+    "lat":38.970981,
+    "lon":-3.973374,
+    "label":"Ciudad Real (ES)"
+  },
+  {
+    "id":"ES044C",
+    "city":"Benidorm",
+    "country_code":"ES",
+    "lat":38.551437,
+    "lon":-0.127476,
+    "label":"Benidorm (ES)"
+  },
+  {
+    "id":"ES045C",
+    "city":"Melilla",
+    "country_code":"ES",
+    "lat":35.290932,
+    "lon":-2.950596,
+    "label":"Melilla (ES)"
+  },
+  {
+    "id":"ES046C",
+    "city":"Ponferrada",
+    "country_code":"ES",
+    "lat":42.497205,
+    "lon":-6.564169,
+    "label":"Ponferrada (ES)"
+  },
+  {
+    "id":"ES047C",
+    "city":"Zamora",
+    "country_code":"ES",
+    "lat":41.497408,
+    "lon":-5.806453,
+    "label":"Zamora (ES)"
+  },
+  {
+    "id":"ES048C",
+    "city":"Fuengirola",
+    "country_code":"ES",
+    "lat":36.564363,
+    "lon":-4.613268,
+    "label":"Fuengirola (ES)"
+  },
+  {
+    "id":"ES049C",
+    "city":"Sanlúcar de Barrameda",
+    "country_code":"ES",
+    "lat":36.821067,
+    "lon":-6.300242,
+    "label":"Sanlúcar de Barrameda (ES)"
+  },
+  {
+    "id":"ES050C",
+    "city":"Vilanova i la Geltrú",
+    "country_code":"ES",
+    "lat":41.237139,
+    "lon":1.70483,
+    "label":"Vilanova i la Geltrú (ES)"
+  },
+  {
+    "id":"ES051C",
+    "city":"Línea de la Concepción, La",
+    "country_code":"ES",
+    "lat":36.202031,
+    "lon":-5.341394,
+    "label":"Línea de la Concepción, La (ES)"
+  },
+  {
+    "id":"ES052C",
+    "city":"Torremolinos",
+    "country_code":"ES",
+    "lat":36.609539,
+    "lon":-4.542105,
+    "label":"Torremolinos (ES)"
+  },
+  {
+    "id":"ES053C",
+    "city":"Irun",
+    "country_code":"ES",
+    "lat":43.335947,
+    "lon":-1.801564,
+    "label":"Irun (ES)"
+  },
+  {
+    "id":"ES054C",
+    "city":"Granollers",
+    "country_code":"ES",
+    "lat":41.630031,
+    "lon":2.297219,
+    "label":"Granollers (ES)"
+  },
+  {
+    "id":"ES055C",
+    "city":"Arrecife",
+    "country_code":"ES",
+    "lat":28.978529,
+    "lon":-13.562738,
+    "label":"Arrecife (ES)"
+  },
+  {
+    "id":"ES056C",
+    "city":"Elda",
+    "country_code":"ES",
+    "lat":38.48693,
+    "lon":-0.758757,
+    "label":"Elda (ES)"
+  },
+  {
+    "id":"ES057C",
+    "city":"Santa Lucía de Tirajana",
+    "country_code":"ES",
+    "lat":27.859697,
+    "lon":-15.483106,
+    "label":"Santa Lucía de Tirajana (ES)"
+  },
+  {
+    "id":"ES058C",
+    "city":"Mollet del Vallès",
+    "country_code":"ES",
+    "lat":41.504852,
+    "lon":2.244331,
+    "label":"Mollet del Vallès (ES)"
+  },
+  {
+    "id":"ES059C",
+    "city":"Granada",
+    "country_code":"ES",
+    "lat":37.111649,
+    "lon":-3.533027,
+    "label":"Granada (ES)"
+  },
+  {
+    "id":"ES060C",
+    "city":"Elche\/Elx",
+    "country_code":"ES",
+    "lat":38.247227,
+    "lon":-0.664779,
+    "label":"Elche\/Elx (ES)"
+  },
+  {
+    "id":"ES061C",
+    "city":"Cartagena",
+    "country_code":"ES",
+    "lat":37.645648,
+    "lon":-1.091416,
+    "label":"Cartagena (ES)"
+  },
+  {
+    "id":"ES062C",
+    "city":"Jerez de la Frontera",
+    "country_code":"ES",
+    "lat":36.710685,
+    "lon":-6.093612,
+    "label":"Jerez de la Frontera (ES)"
+  },
+  {
+    "id":"ES063C",
+    "city":"San Sebastián\/Donostia",
+    "country_code":"ES",
+    "lat":43.305801,
+    "lon":-1.967962,
+    "label":"San Sebastián\/Donostia (ES)"
+  },
+  {
+    "id":"ES064C",
+    "city":"Alcalá de Henares",
+    "country_code":"ES",
+    "lat":40.49453,
+    "lon":-3.369638,
+    "label":"Alcalá de Henares (ES)"
+  },
+  {
+    "id":"ES065C",
+    "city":"Almería",
+    "country_code":"ES",
+    "lat":36.877581,
+    "lon":-2.353124,
+    "label":"Almería (ES)"
+  },
+  {
+    "id":"ES066C",
+    "city":"Burgos",
+    "country_code":"ES",
+    "lat":42.351461,
+    "lon":-3.682078,
+    "label":"Burgos (ES)"
+  },
+  {
+    "id":"ES067C",
+    "city":"Salamanca",
+    "country_code":"ES",
+    "lat":40.96299,
+    "lon":-5.668058,
+    "label":"Salamanca (ES)"
+  },
+  {
+    "id":"ES068C",
+    "city":"Albacete",
+    "country_code":"ES",
+    "lat":38.978573,
+    "lon":-1.901554,
+    "label":"Albacete (ES)"
+  },
+  {
+    "id":"ES069C",
+    "city":"Castellón de la Plana\/Castelló de la Plana",
+    "country_code":"ES",
+    "lat":39.998152,
+    "lon":-0.045721,
+    "label":"Castellón de la Plana\/Castelló de la Plana (ES)"
+  },
+  {
+    "id":"ES070C",
+    "city":"Huelva",
+    "country_code":"ES",
+    "lat":37.273174,
+    "lon":-6.92974,
+    "label":"Huelva (ES)"
+  },
+  {
+    "id":"ES071C",
+    "city":"Cádiz",
+    "country_code":"ES",
+    "lat":36.496964,
+    "lon":-6.267194,
+    "label":"Cádiz (ES)"
+  },
+  {
+    "id":"ES072C",
+    "city":"León",
+    "country_code":"ES",
+    "lat":42.611922,
+    "lon":-5.638402,
+    "label":"León (ES)"
+  },
+  {
+    "id":"ES073C",
+    "city":"Tarragona",
+    "country_code":"ES",
+    "lat":41.131639,
+    "lon":1.261062,
+    "label":"Tarragona (ES)"
+  },
+  {
+    "id":"ES074C",
+    "city":"Jaén",
+    "country_code":"ES",
+    "lat":37.807503,
+    "lon":-3.753064,
+    "label":"Jaén (ES)"
+  },
+  {
+    "id":"ES075C",
+    "city":"Lleida",
+    "country_code":"ES",
+    "lat":41.607881,
+    "lon":0.64783,
+    "label":"Lleida (ES)"
+  },
+  {
+    "id":"ES076C",
+    "city":"Ourense",
+    "country_code":"ES",
+    "lat":42.337616,
+    "lon":-7.894433,
+    "label":"Ourense (ES)"
+  },
+  {
+    "id":"ES077C",
+    "city":"Mataró",
+    "country_code":"ES",
+    "lat":41.554197,
+    "lon":2.446692,
+    "label":"Mataró (ES)"
+  },
+  {
+    "id":"ES078C",
+    "city":"Dos Hermanas",
+    "country_code":"ES",
+    "lat":37.256848,
+    "lon":-5.962492,
+    "label":"Dos Hermanas (ES)"
+  },
+  {
+    "id":"ES079C",
+    "city":"Algeciras",
+    "country_code":"ES",
+    "lat":36.106534,
+    "lon":-5.479454,
+    "label":"Algeciras (ES)"
+  },
+  {
+    "id":"ES081C",
+    "city":"Torrejón de Ardoz",
+    "country_code":"ES",
+    "lat":40.469961,
+    "lon":-3.460343,
+    "label":"Torrejón de Ardoz (ES)"
+  },
+  {
+    "id":"ES082C",
+    "city":"Alcalá de Guadaíra",
+    "country_code":"ES",
+    "lat":37.290353,
+    "lon":-5.806306,
+    "label":"Alcalá de Guadaíra (ES)"
+  },
+  {
+    "id":"ES083C",
+    "city":"Alcoy",
+    "country_code":"ES",
+    "lat":38.682273,
+    "lon":-0.516512,
+    "label":"Alcoy (ES)"
+  },
+  {
+    "id":"ES086C",
+    "city":"Chiclana de la Frontera",
+    "country_code":"ES",
+    "lat":36.399769,
+    "lon":-6.110002,
+    "label":"Chiclana de la Frontera (ES)"
+  },
+  {
+    "id":"ES087C",
+    "city":"Collado Villalba",
+    "country_code":"ES",
+    "lat":40.641156,
+    "lon":-3.988289,
+    "label":"Collado Villalba (ES)"
+  },
+  {
+    "id":"ES089C",
+    "city":"Eivissa",
+    "country_code":"ES",
+    "lat":38.913711,
+    "lon":1.418852,
+    "label":"Eivissa (ES)"
+  },
+  {
+    "id":"ES090C",
+    "city":"Linares",
+    "country_code":"ES",
+    "lat":38.09613,
+    "lon":-3.636778,
+    "label":"Linares (ES)"
+  },
+  {
+    "id":"ES091C",
+    "city":"Lorca",
+    "country_code":"ES",
+    "lat":37.767933,
+    "lon":-1.858524,
+    "label":"Lorca (ES)"
+  },
+  {
+    "id":"ES092C",
+    "city":"Mérida",
+    "country_code":"ES",
+    "lat":38.974404,
+    "lon":-6.40894,
+    "label":"Mérida (ES)"
+  },
+  {
+    "id":"ES093C",
+    "city":"Sagunto",
+    "country_code":"ES",
+    "lat":39.690427,
+    "lon":-0.277179,
+    "label":"Sagunto (ES)"
+  },
+  {
+    "id":"ES095C",
+    "city":"Valdemoro",
+    "country_code":"ES",
+    "lat":40.183233,
+    "lon":-3.657306,
+    "label":"Valdemoro (ES)"
+  },
+  {
+    "id":"ES096C",
+    "city":"Puerto de la Cruz",
+    "country_code":"ES",
+    "lat":28.361838,
+    "lon":-16.580491,
+    "label":"Puerto de la Cruz (ES)"
+  },
+  {
+    "id":"ES097C",
+    "city":"Igualada",
+    "country_code":"ES",
+    "lat":41.565301,
+    "lon":1.596365,
+    "label":"Igualada (ES)"
+  },
+  {
+    "id":"ES099C",
+    "city":"Vícar",
+    "country_code":"ES",
+    "lat":36.812525,
+    "lon":-2.660565,
+    "label":"Vícar (ES)"
+  },
+  {
+    "id":"ES100C",
+    "city":"Armilla",
+    "country_code":"ES",
+    "lat":37.136273,
+    "lon":-3.682728,
+    "label":"Armilla (ES)"
+  },
+  {
+    "id":"ES101C",
+    "city":"Mairena del Aljarafe",
+    "country_code":"ES",
+    "lat":37.354168,
+    "lon":-6.056156,
+    "label":"Mairena del Aljarafe (ES)"
+  },
+  {
+    "id":"ES102C",
+    "city":"Aranjuez",
+    "country_code":"ES",
+    "lat":39.994907,
+    "lon":-3.678726,
+    "label":"Aranjuez (ES)"
+  },
+  {
+    "id":"ES103C",
+    "city":"Parla",
+    "country_code":"ES",
+    "lat":40.230647,
+    "lon":-3.766784,
+    "label":"Parla (ES)"
+  },
+  {
+    "id":"ES104C",
+    "city":"Pinto",
+    "country_code":"ES",
+    "lat":40.246872,
+    "lon":-3.685489,
+    "label":"Pinto (ES)"
+  },
+  {
+    "id":"ES105C",
+    "city":"Arganda del Rey",
+    "country_code":"ES",
+    "lat":40.292329,
+    "lon":-3.445332,
+    "label":"Arganda del Rey (ES)"
+  },
+  {
+    "id":"ES106C",
+    "city":"Fuenlabrada",
+    "country_code":"ES",
+    "lat":40.283079,
+    "lon":-3.796543,
+    "label":"Fuenlabrada (ES)"
+  },
+  {
+    "id":"ES107C",
+    "city":"Rivas-Vaciamadrid",
+    "country_code":"ES",
+    "lat":40.339816,
+    "lon":-3.528117,
+    "label":"Rivas-Vaciamadrid (ES)"
+  },
+  {
+    "id":"ES108C",
+    "city":"Coslada",
+    "country_code":"ES",
+    "lat":40.433881,
+    "lon":-3.50087,
+    "label":"Coslada (ES)"
+  },
+  {
+    "id":"FR017C",
+    "city":"Reims",
+    "country_code":"FR",
+    "lat":49.261527,
+    "lon":4.040499,
+    "label":"Reims (FR)"
+  },
+  {
+    "id":"FR018C",
+    "city":"Orléans",
+    "country_code":"FR",
+    "lat":47.891696,
+    "lon":1.907968,
+    "label":"Orléans (FR)"
+  },
+  {
+    "id":"FR019C",
+    "city":"Nancy",
+    "country_code":"FR",
+    "lat":48.686137,
+    "lon":6.164367,
+    "label":"Nancy (FR)"
+  },
+  {
+    "id":"FR020C",
+    "city":"Dijon",
+    "country_code":"FR",
+    "lat":47.324307,
+    "lon":5.038609,
+    "label":"Dijon (FR)"
+  },
+  {
+    "id":"FR021C",
+    "city":"Clermont-Ferrand",
+    "country_code":"FR",
+    "lat":45.783541,
+    "lon":3.104635,
+    "label":"Clermont-Ferrand (FR)"
+  },
+  {
+    "id":"FR022C",
+    "city":"Le Havre",
+    "country_code":"FR",
+    "lat":49.487998,
+    "lon":0.20667,
+    "label":"Le Havre (FR)"
+  },
+  {
+    "id":"FR023C",
+    "city":"Saint-Étienne",
+    "country_code":"FR",
+    "lat":45.439769,
+    "lon":4.405579,
+    "label":"Saint-Étienne (FR)"
+  },
+  {
+    "id":"FR024C",
+    "city":"Angers",
+    "country_code":"FR",
+    "lat":47.468616,
+    "lon":-0.535716,
+    "label":"Angers (FR)"
+  },
+  {
+    "id":"FR025C",
+    "city":"Mulhouse",
+    "country_code":"FR",
+    "lat":47.751049,
+    "lon":7.354753,
+    "label":"Mulhouse (FR)"
+  },
+  {
+    "id":"FR026C",
+    "city":"Lens",
+    "country_code":"FR",
+    "lat":50.416627,
+    "lon":2.864431,
+    "label":"Lens (FR)"
+  },
+  {
+    "id":"FR027C",
+    "city":"Metz",
+    "country_code":"FR",
+    "lat":49.102378,
+    "lon":6.190176,
+    "label":"Metz (FR)"
+  },
+  {
+    "id":"FR028C",
+    "city":"Nîmes",
+    "country_code":"FR",
+    "lat":43.844616,
+    "lon":4.347615,
+    "label":"Nîmes (FR)"
+  },
+  {
+    "id":"FR029C",
+    "city":"Le Mans",
+    "country_code":"FR",
+    "lat":47.991776,
+    "lon":0.200844,
+    "label":"Le Mans (FR)"
+  },
+  {
+    "id":"FR030C",
+    "city":"Saint-Denis",
+    "country_code":"FR",
+    "lat":-20.93305,
+    "lon":55.446985,
+    "label":"Saint-Denis (FR)"
+  },
+  {
+    "id":"FR031C",
+    "city":"Caen",
+    "country_code":"FR",
+    "lat":49.178921,
+    "lon":-0.347151,
+    "label":"Caen (FR)"
+  },
+  {
+    "id":"FR032C",
+    "city":"Limoges",
+    "country_code":"FR",
+    "lat":45.829426,
+    "lon":1.257199,
+    "label":"Limoges (FR)"
+  },
+  {
+    "id":"FR033C",
+    "city":"Aix-en-Provence",
+    "country_code":"FR",
+    "lat":43.536101,
+    "lon":5.398594,
+    "label":"Aix-en-Provence (FR)"
+  },
+  {
+    "id":"FR034C",
+    "city":"Brest",
+    "country_code":"FR",
+    "lat":48.400185,
+    "lon":-4.502411,
+    "label":"Brest (FR)"
+  },
+  {
+    "id":"FR035C",
+    "city":"Amiens",
+    "country_code":"FR",
+    "lat":49.900195,
+    "lon":2.310539,
+    "label":"Amiens (FR)"
+  },
+  {
+    "id":"FR036C",
+    "city":"Dunkerque",
+    "country_code":"FR",
+    "lat":51.023355,
+    "lon":2.326763,
+    "label":"Dunkerque (FR)"
+  },
+  {
+    "id":"FR037C",
+    "city":"Perpignan",
+    "country_code":"FR",
+    "lat":42.694152,
+    "lon":2.905339,
+    "label":"Perpignan (FR)"
+  },
+  {
+    "id":"FR038C",
+    "city":"Annecy",
+    "country_code":"FR",
+    "lat":45.904088,
+    "lon":6.110423,
+    "label":"Annecy (FR)"
+  },
+  {
+    "id":"FR039C",
+    "city":"Besançon",
+    "country_code":"FR",
+    "lat":47.255202,
+    "lon":6.019362,
+    "label":"Besançon (FR)"
+  },
+  {
+    "id":"FR040C",
+    "city":"Bayonne",
+    "country_code":"FR",
+    "lat":43.487655,
+    "lon":-1.502266,
+    "label":"Bayonne (FR)"
+  },
+  {
+    "id":"FR041C",
+    "city":"La Seyne-sur-Mer",
+    "country_code":"FR",
+    "lat":43.085483,
+    "lon":5.837542,
+    "label":"La Seyne-sur-Mer (FR)"
+  },
+  {
+    "id":"FR042C",
+    "city":"Pau",
+    "country_code":"FR",
+    "lat":43.297895,
+    "lon":-0.37698,
+    "label":"Pau (FR)"
+  },
+  {
+    "id":"FR043C",
+    "city":"Avignon",
+    "country_code":"FR",
+    "lat":43.94014,
+    "lon":4.84436,
+    "label":"Avignon (FR)"
+  },
+  {
+    "id":"FR044C",
+    "city":"Troyes",
+    "country_code":"FR",
+    "lat":48.29635,
+    "lon":4.056763,
+    "label":"Troyes (FR)"
+  },
+  {
+    "id":"FR045C",
+    "city":"Valenciennes",
+    "country_code":"FR",
+    "lat":50.357784,
+    "lon":3.5219,
+    "label":"Valenciennes (FR)"
+  },
+  {
+    "id":"FR046C",
+    "city":"Fort-de-France",
+    "country_code":"FR",
+    "lat":14.636169,
+    "lon":-61.07558,
+    "label":"Fort-de-France (FR)"
+  },
+  {
+    "id":"FR047C",
+    "city":"Poitiers",
+    "country_code":"FR",
+    "lat":46.579302,
+    "lon":0.359726,
+    "label":"Poitiers (FR)"
+  },
+  {
+    "id":"FR048C",
+    "city":"Valence",
+    "country_code":"FR",
+    "lat":44.936929,
+    "lon":4.90242,
+    "label":"Valence (FR)"
+  },
+  {
+    "id":"FR049C",
+    "city":"Fréjus",
+    "country_code":"FR",
+    "lat":43.465282,
+    "lon":6.802742,
+    "label":"Fréjus (FR)"
+  },
+  {
+    "id":"FR050C",
+    "city":"Chambéry",
+    "country_code":"FR",
+    "lat":45.574398,
+    "lon":5.92949,
+    "label":"Chambéry (FR)"
+  },
+  {
+    "id":"FR051C",
+    "city":"Mantes-la-Jolie",
+    "country_code":"FR",
+    "lat":48.993728,
+    "lon":1.73765,
+    "label":"Mantes-la-Jolie (FR)"
+  },
+  {
+    "id":"FR052C",
+    "city":"Douai",
+    "country_code":"FR",
+    "lat":50.369099,
+    "lon":3.092246,
+    "label":"Douai (FR)"
+  },
+  {
+    "id":"FR053C",
+    "city":"Melun",
+    "country_code":"FR",
+    "lat":48.54212,
+    "lon":2.659394,
+    "label":"Melun (FR)"
+  },
+  {
+    "id":"FR054C",
+    "city":"La Rochelle",
+    "country_code":"FR",
+    "lat":46.1675,
+    "lon":-1.168038,
+    "label":"La Rochelle (FR)"
+  },
+  {
+    "id":"FR055C",
+    "city":"Lorient",
+    "country_code":"FR",
+    "lat":47.761907,
+    "lon":-3.344349,
+    "label":"Lorient (FR)"
+  },
+  {
+    "id":"FR056C",
+    "city":"Cherbourg-en-Cotentin",
+    "country_code":"FR",
+    "lat":49.623107,
+    "lon":-1.584469,
+    "label":"Cherbourg-en-Cotentin (FR)"
+  },
+  {
+    "id":"FR057C",
+    "city":"Béziers",
+    "country_code":"FR",
+    "lat":43.347506,
+    "lon":3.230773,
+    "label":"Béziers (FR)"
+  },
+  {
+    "id":"FR058C",
+    "city":"Chartres",
+    "country_code":"FR",
+    "lat":48.44388,
+    "lon":1.478796,
+    "label":"Chartres (FR)"
+  },
+  {
+    "id":"FR059C",
+    "city":"Creil",
+    "country_code":"FR",
+    "lat":49.266464,
+    "lon":2.464724,
+    "label":"Creil (FR)"
+  },
+  {
+    "id":"FR060C",
+    "city":"Boulogne-sur-Mer",
+    "country_code":"FR",
+    "lat":50.721214,
+    "lon":1.623068,
+    "label":"Boulogne-sur-Mer (FR)"
+  },
+  {
+    "id":"FR061C",
+    "city":"Calais",
+    "country_code":"FR",
+    "lat":50.949186,
+    "lon":1.844835,
+    "label":"Calais (FR)"
+  },
+  {
+    "id":"FR062C",
+    "city":"Mamoudzou",
+    "country_code":"FR",
+    "lat":-12.789791,
+    "lon":45.193922,
+    "label":"Mamoudzou (FR)"
+  },
+  {
+    "id":"FR063C",
+    "city":"Montbéliard",
+    "country_code":"FR",
+    "lat":47.50416,
+    "lon":6.818724,
+    "label":"Montbéliard (FR)"
+  },
+  {
+    "id":"FR064C",
+    "city":"Arras",
+    "country_code":"FR",
+    "lat":50.291315,
+    "lon":2.780007,
+    "label":"Arras (FR)"
+  },
+  {
+    "id":"FR065C",
+    "city":"Colmar",
+    "country_code":"FR",
+    "lat":48.092262,
+    "lon":7.392257,
+    "label":"Colmar (FR)"
+  },
+  {
+    "id":"FR066C",
+    "city":"Martigues",
+    "country_code":"FR",
+    "lat":43.386037,
+    "lon":5.041634,
+    "label":"Martigues (FR)"
+  },
+  {
+    "id":"FR067C",
+    "city":"Meaux",
+    "country_code":"FR",
+    "lat":48.967228,
+    "lon":2.885028,
+    "label":"Meaux (FR)"
+  },
+  {
+    "id":"FR068C",
+    "city":"Bourges",
+    "country_code":"FR",
+    "lat":47.074932,
+    "lon":2.404674,
+    "label":"Bourges (FR)"
+  },
+  {
+    "id":"FR069C",
+    "city":"Saint-Brieuc",
+    "country_code":"FR",
+    "lat":48.495032,
+    "lon":-2.769772,
+    "label":"Saint-Brieuc (FR)"
+  },
+  {
+    "id":"FR070C",
+    "city":"Quimper",
+    "country_code":"FR",
+    "lat":47.997057,
+    "lon":-4.091043,
+    "label":"Quimper (FR)"
+  },
+  {
+    "id":"FR071C",
+    "city":"Belfort",
+    "country_code":"FR",
+    "lat":47.632854,
+    "lon":6.81422,
+    "label":"Belfort (FR)"
+  },
+  {
+    "id":"FR072C",
+    "city":"Cayenne",
+    "country_code":"FR",
+    "lat":4.924914,
+    "lon":-52.315665,
+    "label":"Cayenne (FR)"
+  },
+  {
+    "id":"FR074C",
+    "city":"Saint-Louis",
+    "country_code":"FR",
+    "lat":-21.233778,
+    "lon":55.421621,
+    "label":"Saint-Louis (FR)"
+  },
+  {
+    "id":"FR075C",
+    "city":"Vannes",
+    "country_code":"FR",
+    "lat":47.660061,
+    "lon":-2.756758,
+    "label":"Vannes (FR)"
+  },
+  {
+    "id":"FR076C",
+    "city":"Annemasse-Geneva (French part)",
+    "country_code":"FR",
+    "lat":46.185457,
+    "lon":6.238586,
+    "label":"Annemasse-Geneva (French part) (FR)"
+  },
+  {
+    "id":"FR077C",
+    "city":"Saint-Louis-Bâle (French part)",
+    "country_code":"FR",
+    "lat":47.598533,
+    "lon":7.572018,
+    "label":"Saint-Louis-Bâle (French part) (FR)"
+  },
+  {
+    "id":"FR078C",
+    "city":"Ajaccio",
+    "country_code":"FR",
+    "lat":41.927136,
+    "lon":8.708588,
+    "label":"Ajaccio (FR)"
+  },
+  {
+    "id":"FR079C",
+    "city":"Roanne",
+    "country_code":"FR",
+    "lat":46.040618,
+    "lon":4.062106,
+    "label":"Roanne (FR)"
+  },
+  {
+    "id":"FR080C",
+    "city":"Irun-Hendaye (French Part) ",
+    "country_code":"FR",
+    "lat":43.36468,
+    "lon":-1.762701,
+    "label":"Irun-Hendaye (French Part)  (FR)"
+  },
+  {
+    "id":"FR081C",
+    "city":"Tarbes",
+    "country_code":"FR",
+    "lat":43.231751,
+    "lon":0.078621,
+    "label":"Tarbes (FR)"
+  },
+  {
+    "id":"HR001C",
+    "city":"Zagreb",
+    "country_code":"HR",
+    "lat":45.809912,
+    "lon":16.000031,
+    "label":"Zagreb (HR)"
+  },
+  {
+    "id":"HR002C",
+    "city":"Rijeka",
+    "country_code":"HR",
+    "lat":45.344621,
+    "lon":14.430561,
+    "label":"Rijeka (HR)"
+  },
+  {
+    "id":"HR004C",
+    "city":"Osijek",
+    "country_code":"HR",
+    "lat":45.541439,
+    "lon":18.710233,
+    "label":"Osijek (HR)"
+  },
+  {
+    "id":"HR005C",
+    "city":"Split",
+    "country_code":"HR",
+    "lat":43.520992,
+    "lon":16.5144,
+    "label":"Split (HR)"
+  },
+  {
+    "id":"HR007C",
+    "city":"Zadar",
+    "country_code":"HR",
+    "lat":44.14281,
+    "lon":15.245726,
+    "label":"Zadar (HR)"
+  },
+  {
+    "id":"HU001C",
+    "city":"Budapest (greater city)",
+    "country_code":"HU",
+    "lat":47.475015,
+    "lon":19.093347,
+    "label":"Budapest (greater city) (HU)"
+  },
+  {
+    "id":"HU002C",
+    "city":"Miskolc",
+    "country_code":"HU",
+    "lat":48.092718,
+    "lon":20.699413,
+    "label":"Miskolc (HU)"
+  },
+  {
+    "id":"HU003C",
+    "city":"Nyíregyháza",
+    "country_code":"HU",
+    "lat":47.938526,
+    "lon":21.708484,
+    "label":"Nyíregyháza (HU)"
+  },
+  {
+    "id":"HU004C",
+    "city":"Pécs",
+    "country_code":"HU",
+    "lat":46.0875,
+    "lon":18.241629,
+    "label":"Pécs (HU)"
+  },
+  {
+    "id":"HU005C",
+    "city":"Debrecen",
+    "country_code":"HU",
+    "lat":47.530331,
+    "lon":21.665813,
+    "label":"Debrecen (HU)"
+  },
+  {
+    "id":"HU006C",
+    "city":"Szeged",
+    "country_code":"HU",
+    "lat":46.270646,
+    "lon":20.140462,
+    "label":"Szeged (HU)"
+  },
+  {
+    "id":"HU007C",
+    "city":"Gyõr",
+    "country_code":"HU",
+    "lat":47.677614,
+    "lon":17.663819,
+    "label":"Gyõr (HU)"
+  },
+  {
+    "id":"HU008C",
+    "city":"Kecskemét",
+    "country_code":"HU",
+    "lat":46.909588,
+    "lon":19.680349,
+    "label":"Kecskemét (HU)"
+  },
+  {
+    "id":"HU009C",
+    "city":"Székesfehérvár",
+    "country_code":"HU",
+    "lat":47.189725,
+    "lon":18.444753,
+    "label":"Székesfehérvár (HU)"
+  },
+  {
+    "id":"HU010C",
+    "city":"Szombathely",
+    "country_code":"HU",
+    "lat":47.220848,
+    "lon":16.622314,
+    "label":"Szombathely (HU)"
+  },
+  {
+    "id":"HU012C",
+    "city":"Tatabánya",
+    "country_code":"HU",
+    "lat":47.553553,
+    "lon":18.423965,
+    "label":"Tatabánya (HU)"
+  },
+  {
+    "id":"HU019C",
+    "city":"Sopron",
+    "country_code":"HU",
+    "lat":47.686421,
+    "lon":16.601739,
+    "label":"Sopron (HU)"
+  },
+  {
+    "id":"IE001C",
+    "city":"Dublin (greater city)",
+    "country_code":"IE",
+    "lat":53.335099,
+    "lon":-6.302671,
+    "label":"Dublin (greater city) (IE)"
+  },
+  {
+    "id":"IE002C",
+    "city":"Cork (greater city)",
+    "country_code":"IE",
+    "lat":51.899791,
+    "lon":-8.491378,
+    "label":"Cork (greater city) (IE)"
+  },
+  {
+    "id":"IE003C",
+    "city":"Limerick (greater city)",
+    "country_code":"IE",
+    "lat":52.640691,
+    "lon":-8.624858,
+    "label":"Limerick (greater city) (IE)"
+  },
+  {
+    "id":"IE004C",
+    "city":"Galway (greater city)",
+    "country_code":"IE",
+    "lat":53.288362,
+    "lon":-9.048764,
+    "label":"Galway (greater city) (IE)"
+  },
+  {
+    "id":"IE005C",
+    "city":"Waterford (greater city)",
+    "country_code":"IE",
+    "lat":52.20508,
+    "lon":-7.056009,
+    "label":"Waterford (greater city) (IE)"
+  },
+  {
+    "id":"IT001C",
+    "city":"Roma",
+    "country_code":"IT",
+    "lat":41.863136,
+    "lon":12.387369,
+    "label":"Roma (IT)"
+  },
+  {
+    "id":"IT002C",
+    "city":"Milano (greater city)",
+    "country_code":"IT",
+    "lat":45.549286,
+    "lon":9.117394,
+    "label":"Milano (greater city) (IT)"
+  },
+  {
+    "id":"IT003C",
+    "city":"Napoli (greater city)",
+    "country_code":"IT",
+    "lat":40.918515,
+    "lon":14.192908,
+    "label":"Napoli (greater city) (IT)"
+  },
+  {
+    "id":"IT004C",
+    "city":"Torino",
+    "country_code":"IT",
+    "lat":45.071621,
+    "lon":7.677851,
+    "label":"Torino (IT)"
+  },
+  {
+    "id":"IT005C",
+    "city":"Palermo",
+    "country_code":"IT",
+    "lat":38.13026,
+    "lon":13.331015,
+    "label":"Palermo (IT)"
+  },
+  {
+    "id":"IT006C",
+    "city":"Genova",
+    "country_code":"IT",
+    "lat":44.441568,
+    "lon":8.893133,
+    "label":"Genova (IT)"
+  },
+  {
+    "id":"IT007C",
+    "city":"Firenze",
+    "country_code":"IT",
+    "lat":43.779956,
+    "lon":11.244967,
+    "label":"Firenze (IT)"
+  },
+  {
+    "id":"IT008C",
+    "city":"Bari",
+    "country_code":"IT",
+    "lat":41.103038,
+    "lon":16.845801,
+    "label":"Bari (IT)"
+  },
+  {
+    "id":"IT009C",
+    "city":"Bologna",
+    "country_code":"IT",
+    "lat":44.497977,
+    "lon":11.333438,
+    "label":"Bologna (IT)"
+  },
+  {
+    "id":"IT010C",
+    "city":"Catania (greater city)",
+    "country_code":"IT",
+    "lat":37.470304,
+    "lon":15.034566,
+    "label":"Catania (greater city) (IT)"
+  },
+  {
+    "id":"IT011C",
+    "city":"Venezia",
+    "country_code":"IT",
+    "lat":45.483257,
+    "lon":12.226258,
+    "label":"Venezia (IT)"
+  },
+  {
+    "id":"IT012C",
+    "city":"Verona",
+    "country_code":"IT",
+    "lat":45.448702,
+    "lon":11.002229,
+    "label":"Verona (IT)"
+  },
+  {
+    "id":"IT013C",
+    "city":"Cremona",
+    "country_code":"IT",
+    "lat":45.140905,
+    "lon":10.029637,
+    "label":"Cremona (IT)"
+  },
+  {
+    "id":"IT014C",
+    "city":"Trento",
+    "country_code":"IT",
+    "lat":46.061499,
+    "lon":11.110758,
+    "label":"Trento (IT)"
+  },
+  {
+    "id":"IT015C",
+    "city":"Trieste",
+    "country_code":"IT",
+    "lat":45.664017,
+    "lon":13.798623,
+    "label":"Trieste (IT)"
+  },
+  {
+    "id":"IT016C",
+    "city":"Perugia",
+    "country_code":"IT",
+    "lat":43.13647,
+    "lon":12.394996,
+    "label":"Perugia (IT)"
+  },
+  {
+    "id":"IT017C",
+    "city":"Ancona",
+    "country_code":"IT",
+    "lat":43.572719,
+    "lon":13.49188,
+    "label":"Ancona (IT)"
+  },
+  {
+    "id":"IT018C",
+    "city":"Pescara (greater city)",
+    "country_code":"IT",
+    "lat":42.450572,
+    "lon":14.211109,
+    "label":"Pescara (greater city) (IT)"
+  },
+  {
+    "id":"IT019C",
+    "city":"Campobasso",
+    "country_code":"IT",
+    "lat":41.564586,
+    "lon":14.666279,
+    "label":"Campobasso (IT)"
+  },
+  {
+    "id":"IT020C",
+    "city":"Caserta  (greater city)",
+    "country_code":"IT",
+    "lat":41.078707,
+    "lon":14.318484,
+    "label":"Caserta  (greater city) (IT)"
+  },
+  {
+    "id":"IT021C",
+    "city":"Taranto",
+    "country_code":"IT",
+    "lat":40.474489,
+    "lon":17.274384,
+    "label":"Taranto (IT)"
+  },
+  {
+    "id":"IT022C",
+    "city":"Potenza",
+    "country_code":"IT",
+    "lat":40.659262,
+    "lon":15.80681,
+    "label":"Potenza (IT)"
+  },
+  {
+    "id":"IT023C",
+    "city":"Catanzaro",
+    "country_code":"IT",
+    "lat":38.889872,
+    "lon":16.602714,
+    "label":"Catanzaro (IT)"
+  },
+  {
+    "id":"IT024C",
+    "city":"Reggio di Calabria",
+    "country_code":"IT",
+    "lat":38.112775,
+    "lon":15.718224,
+    "label":"Reggio di Calabria (IT)"
+  },
+  {
+    "id":"IT025C",
+    "city":"Sassari",
+    "country_code":"IT",
+    "lat":40.744655,
+    "lon":8.364334,
+    "label":"Sassari (IT)"
+  },
+  {
+    "id":"IT026C",
+    "city":"Cagliari (greater city)",
+    "country_code":"IT",
+    "lat":39.243598,
+    "lon":9.204726,
+    "label":"Cagliari (greater city) (IT)"
+  },
+  {
+    "id":"IT027C",
+    "city":"Padova",
+    "country_code":"IT",
+    "lat":45.403377,
+    "lon":11.883199,
+    "label":"Padova (IT)"
+  },
+  {
+    "id":"IT028C",
+    "city":"Brescia",
+    "country_code":"IT",
+    "lat":45.532578,
+    "lon":10.225978,
+    "label":"Brescia (IT)"
+  },
+  {
+    "id":"IT029C",
+    "city":"Modena",
+    "country_code":"IT",
+    "lat":44.643883,
+    "lon":10.91556,
+    "label":"Modena (IT)"
+  },
+  {
+    "id":"IT030C",
+    "city":"Foggia",
+    "country_code":"IT",
+    "lat":41.456649,
+    "lon":15.583294,
+    "label":"Foggia (IT)"
+  },
+  {
+    "id":"IT031C",
+    "city":"Salerno",
+    "country_code":"IT",
+    "lat":40.689199,
+    "lon":14.804136,
+    "label":"Salerno (IT)"
+  },
+  {
+    "id":"IT032C",
+    "city":"Piacenza",
+    "country_code":"IT",
+    "lat":45.029798,
+    "lon":9.711773,
+    "label":"Piacenza (IT)"
+  },
+  {
+    "id":"IT033C",
+    "city":"Bolzano",
+    "country_code":"IT",
+    "lat":46.492248,
+    "lon":11.35409,
+    "label":"Bolzano (IT)"
+  },
+  {
+    "id":"IT034C",
+    "city":"Udine",
+    "country_code":"IT",
+    "lat":46.064064,
+    "lon":13.245569,
+    "label":"Udine (IT)"
+  },
+  {
+    "id":"IT035C",
+    "city":"La Spezia",
+    "country_code":"IT",
+    "lat":44.101281,
+    "lon":9.795721,
+    "label":"La Spezia (IT)"
+  },
+  {
+    "id":"IT036C",
+    "city":"Lecce",
+    "country_code":"IT",
+    "lat":40.396834,
+    "lon":18.242914,
+    "label":"Lecce (IT)"
+  },
+  {
+    "id":"IT037C",
+    "city":"Barletta",
+    "country_code":"IT",
+    "lat":41.311865,
+    "lon":16.210982,
+    "label":"Barletta (IT)"
+  },
+  {
+    "id":"IT038C",
+    "city":"Pesaro",
+    "country_code":"IT",
+    "lat":43.884997,
+    "lon":12.866997,
+    "label":"Pesaro (IT)"
+  },
+  {
+    "id":"IT039C",
+    "city":"Como",
+    "country_code":"IT",
+    "lat":45.795139,
+    "lon":9.083954,
+    "label":"Como (IT)"
+  },
+  {
+    "id":"IT040C",
+    "city":"Pisa",
+    "country_code":"IT",
+    "lat":43.672331,
+    "lon":10.354227,
+    "label":"Pisa (IT)"
+  },
+  {
+    "id":"IT041C",
+    "city":"Treviso",
+    "country_code":"IT",
+    "lat":45.663813,
+    "lon":12.227754,
+    "label":"Treviso (IT)"
+  },
+  {
+    "id":"IT042C",
+    "city":"Varese",
+    "country_code":"IT",
+    "lat":45.824042,
+    "lon":8.812859,
+    "label":"Varese (IT)"
+  },
+  {
+    "id":"IT043C",
+    "city":"Asti",
+    "country_code":"IT",
+    "lat":44.913261,
+    "lon":8.194356,
+    "label":"Asti (IT)"
+  },
+  {
+    "id":"IT044C",
+    "city":"Pavia",
+    "country_code":"IT",
+    "lat":45.197704,
+    "lon":9.164639,
+    "label":"Pavia (IT)"
+  },
+  {
+    "id":"IT046C",
+    "city":"Cosenza (greater city)",
+    "country_code":"IT",
+    "lat":39.340614,
+    "lon":16.179389,
+    "label":"Cosenza (greater city) (IT)"
+  },
+  {
+    "id":"IT047C",
+    "city":"Savona",
+    "country_code":"IT",
+    "lat":44.336111,
+    "lon":8.42327,
+    "label":"Savona (IT)"
+  },
+  {
+    "id":"IT048C",
+    "city":"Matera",
+    "country_code":"IT",
+    "lat":40.669693,
+    "lon":16.578692,
+    "label":"Matera (IT)"
+  },
+  {
+    "id":"IT049C",
+    "city":"Acireale (greater city)",
+    "country_code":"IT",
+    "lat":37.625441,
+    "lon":15.14847,
+    "label":"Acireale (greater city) (IT)"
+  },
+  {
+    "id":"IT050C",
+    "city":"Avellino",
+    "country_code":"IT",
+    "lat":40.913821,
+    "lon":14.788222,
+    "label":"Avellino (IT)"
+  },
+  {
+    "id":"IT051C",
+    "city":"Pordenone",
+    "country_code":"IT",
+    "lat":45.953839,
+    "lon":12.65719,
+    "label":"Pordenone (IT)"
+  },
+  {
+    "id":"IT052C",
+    "city":"Lecco",
+    "country_code":"IT",
+    "lat":45.857606,
+    "lon":9.422819,
+    "label":"Lecco (IT)"
+  },
+  {
+    "id":"IT053C",
+    "city":"Altamura",
+    "country_code":"IT",
+    "lat":40.85964,
+    "lon":16.550393,
+    "label":"Altamura (IT)"
+  },
+  {
+    "id":"IT054C",
+    "city":"Bitonto",
+    "country_code":"IT",
+    "lat":41.112721,
+    "lon":16.686379,
+    "label":"Bitonto (IT)"
+  },
+  {
+    "id":"IT055C",
+    "city":"Molfetta",
+    "country_code":"IT",
+    "lat":41.182789,
+    "lon":16.570248,
+    "label":"Molfetta (IT)"
+  },
+  {
+    "id":"IT056C",
+    "city":"Battipaglia",
+    "country_code":"IT",
+    "lat":40.594307,
+    "lon":14.955239,
+    "label":"Battipaglia (IT)"
+  },
+  {
+    "id":"IT057C",
+    "city":"Bisceglie",
+    "country_code":"IT",
+    "lat":41.205157,
+    "lon":16.485143,
+    "label":"Bisceglie (IT)"
+  },
+  {
+    "id":"IT058C",
+    "city":"Carpi",
+    "country_code":"IT",
+    "lat":44.801595,
+    "lon":10.89257,
+    "label":"Carpi (IT)"
+  },
+  {
+    "id":"IT059C",
+    "city":"Cerignola",
+    "country_code":"IT",
+    "lat":41.278348,
+    "lon":15.877034,
+    "label":"Cerignola (IT)"
+  },
+  {
+    "id":"IT060C",
+    "city":"Gela",
+    "country_code":"IT",
+    "lat":37.094183,
+    "lon":14.293529,
+    "label":"Gela (IT)"
+  },
+  {
+    "id":"IT061C",
+    "city":"Bagheria",
+    "country_code":"IT",
+    "lat":38.076247,
+    "lon":13.497082,
+    "label":"Bagheria (IT)"
+  },
+  {
+    "id":"PL035C",
+    "city":"Inowrocław",
+    "country_code":"PL",
+    "lat":52.78077,
+    "lon":18.253341,
+    "label":"Inowrocław (PL)"
+  },
+  {
+    "id":"PL037C",
+    "city":"Gniezno",
+    "country_code":"PL",
+    "lat":52.527817,
+    "lon":17.601566,
+    "label":"Gniezno (PL)"
+  },
+  {
+    "id":"PL038C",
+    "city":"Stargard",
+    "country_code":"PL",
+    "lat":53.33435,
+    "lon":15.048176,
+    "label":"Stargard (PL)"
+  },
+  {
+    "id":"PL039C",
+    "city":"Ostrów Wielkopolski",
+    "country_code":"PL",
+    "lat":51.647012,
+    "lon":17.81429,
+    "label":"Ostrów Wielkopolski (PL)"
+  },
+  {
+    "id":"PL041C",
+    "city":"Zamość",
+    "country_code":"PL",
+    "lat":50.720829,
+    "lon":23.258462,
+    "label":"Zamość (PL)"
+  },
+  {
+    "id":"PL042C",
+    "city":"Chełm",
+    "country_code":"PL",
+    "lat":51.135877,
+    "lon":23.483537,
+    "label":"Chełm (PL)"
+  },
+  {
+    "id":"PL043C",
+    "city":"Pabianice",
+    "country_code":"PL",
+    "lat":51.659365,
+    "lon":19.364032,
+    "label":"Pabianice (PL)"
+  },
+  {
+    "id":"PL044C",
+    "city":"Głogów",
+    "country_code":"PL",
+    "lat":51.661548,
+    "lon":16.097889,
+    "label":"Głogów (PL)"
+  },
+  {
+    "id":"PL047C",
+    "city":"Łomża",
+    "country_code":"PL",
+    "lat":53.174346,
+    "lon":22.058454,
+    "label":"Łomża (PL)"
+  },
+  {
+    "id":"PL051C",
+    "city":"Tczew",
+    "country_code":"PL",
+    "lat":54.089522,
+    "lon":18.781997,
+    "label":"Tczew (PL)"
+  },
+  {
+    "id":"PL052C",
+    "city":"Ełk",
+    "country_code":"PL",
+    "lat":53.821351,
+    "lon":22.361201,
+    "label":"Ełk (PL)"
+  },
+  {
+    "id":"PL053C",
+    "city":"Gdynia",
+    "country_code":"PL",
+    "lat":54.506445,
+    "lon":18.479434,
+    "label":"Gdynia (PL)"
+  },
+  {
+    "id":"PL054C",
+    "city":"Sosnowiec",
+    "country_code":"PL",
+    "lat":50.276178,
+    "lon":19.192862,
+    "label":"Sosnowiec (PL)"
+  },
+  {
+    "id":"PL055C",
+    "city":"Gliwice",
+    "country_code":"PL",
+    "lat":50.299233,
+    "lon":18.653589,
+    "label":"Gliwice (PL)"
+  },
+  {
+    "id":"PL056C",
+    "city":"Zabrze",
+    "country_code":"PL",
+    "lat":50.315648,
+    "lon":18.786833,
+    "label":"Zabrze (PL)"
+  },
+  {
+    "id":"PL057C",
+    "city":"Bytom",
+    "country_code":"PL",
+    "lat":50.363606,
+    "lon":18.877592,
+    "label":"Bytom (PL)"
+  },
+  {
+    "id":"PL058C",
+    "city":"Bielsko-Biała",
+    "country_code":"PL",
+    "lat":49.812975,
+    "lon":19.038899,
+    "label":"Bielsko-Biała (PL)"
+  },
+  {
+    "id":"PL059C",
+    "city":"Ruda Śląska",
+    "country_code":"PL",
+    "lat":50.266338,
+    "lon":18.86911,
+    "label":"Ruda Śląska (PL)"
+  },
+  {
+    "id":"PL060C",
+    "city":"Rybnik",
+    "country_code":"PL",
+    "lat":50.105577,
+    "lon":18.544216,
+    "label":"Rybnik (PL)"
+  },
+  {
+    "id":"PL061C",
+    "city":"Tychy",
+    "country_code":"PL",
+    "lat":50.123088,
+    "lon":19.002621,
+    "label":"Tychy (PL)"
+  },
+  {
+    "id":"PL062C",
+    "city":"Wałbrzych",
+    "country_code":"PL",
+    "lat":50.786441,
+    "lon":16.290023,
+    "label":"Wałbrzych (PL)"
+  },
+  {
+    "id":"PL063C",
+    "city":"Elbląg",
+    "country_code":"PL",
+    "lat":54.17695,
+    "lon":19.434442,
+    "label":"Elbląg (PL)"
+  },
+  {
+    "id":"PL064C",
+    "city":"Włocławek",
+    "country_code":"PL",
+    "lat":52.661272,
+    "lon":19.05749,
+    "label":"Włocławek (PL)"
+  },
+  {
+    "id":"PL065C",
+    "city":"Tarnów",
+    "country_code":"PL",
+    "lat":50.024448,
+    "lon":20.973325,
+    "label":"Tarnów (PL)"
+  },
+  {
+    "id":"PL066C",
+    "city":"Chorzów",
+    "country_code":"PL",
+    "lat":50.309334,
+    "lon":18.9629,
+    "label":"Chorzów (PL)"
+  },
+  {
+    "id":"PL067C",
+    "city":"Legnica",
+    "country_code":"PL",
+    "lat":51.201717,
+    "lon":16.167504,
+    "label":"Legnica (PL)"
+  },
+  {
+    "id":"PL068C",
+    "city":"Grudziądz",
+    "country_code":"PL",
+    "lat":53.448974,
+    "lon":18.732282,
+    "label":"Grudziądz (PL)"
+  },
+  {
+    "id":"PL069C",
+    "city":"Będzin",
+    "country_code":"PL",
+    "lat":50.33853,
+    "lon":19.120892,
+    "label":"Będzin (PL)"
+  },
+  {
+    "id":"PL070C",
+    "city":"Dąbrowa Górnicza",
+    "country_code":"PL",
+    "lat":50.354306,
+    "lon":19.29961,
+    "label":"Dąbrowa Górnicza (PL)"
+  },
+  {
+    "id":"PL071C",
+    "city":"Legionowo",
+    "country_code":"PL",
+    "lat":52.405112,
+    "lon":20.93207,
+    "label":"Legionowo (PL)"
+  },
+  {
+    "id":"PL072C",
+    "city":"Mysłowice",
+    "country_code":"PL",
+    "lat":50.198034,
+    "lon":19.146233,
+    "label":"Mysłowice (PL)"
+  },
+  {
+    "id":"PL073C",
+    "city":"Pruszków",
+    "country_code":"PL",
+    "lat":52.172815,
+    "lon":20.800523,
+    "label":"Pruszków (PL)"
+  },
+  {
+    "id":"PL074C",
+    "city":"Siemianowice Śląskie",
+    "country_code":"PL",
+    "lat":50.313367,
+    "lon":19.026679,
+    "label":"Siemianowice Śląskie (PL)"
+  },
+  {
+    "id":"PL075C",
+    "city":"Świętochłowice",
+    "country_code":"PL",
+    "lat":50.298522,
+    "lon":18.910835,
+    "label":"Świętochłowice (PL)"
+  },
+  {
+    "id":"PT001C",
+    "city":"Lisboa",
+    "country_code":"PT",
+    "lat":38.80749,
+    "lon":-9.174459,
+    "label":"Lisboa (PT)"
+  },
+  {
+    "id":"PT002C",
+    "city":"Porto",
+    "country_code":"PT",
+    "lat":41.130475,
+    "lon":-8.555506,
+    "label":"Porto (PT)"
+  },
+  {
+    "id":"PT003C",
+    "city":"Braga",
+    "country_code":"PT",
+    "lat":41.544479,
+    "lon":-8.420923,
+    "label":"Braga (PT)"
+  },
+  {
+    "id":"PT004C",
+    "city":"Funchal",
+    "country_code":"PT",
+    "lat":32.678847,
+    "lon":-16.919582,
+    "label":"Funchal (PT)"
+  },
+  {
+    "id":"PT005C",
+    "city":"Coimbra",
+    "country_code":"PT",
+    "lat":40.216156,
+    "lon":-8.446177,
+    "label":"Coimbra (PT)"
+  },
+  {
+    "id":"PT006C",
+    "city":"Setúbal",
+    "country_code":"PT",
+    "lat":38.510739,
+    "lon":-8.975286,
+    "label":"Setúbal (PT)"
+  },
+  {
+    "id":"PT007C",
+    "city":"Ponta Delgada",
+    "country_code":"PT",
+    "lat":37.819387,
+    "lon":-25.728703,
+    "label":"Ponta Delgada (PT)"
+  },
+  {
+    "id":"PT008C",
+    "city":"Aveiro",
+    "country_code":"PT",
+    "lat":40.632021,
+    "lon":-8.609542,
+    "label":"Aveiro (PT)"
+  },
+  {
+    "id":"PT009C",
+    "city":"Faro",
+    "country_code":"PT",
+    "lat":37.078756,
+    "lon":-7.923468,
+    "label":"Faro (PT)"
+  },
+  {
+    "id":"PT010C",
+    "city":"Viseu",
+    "country_code":"PT",
+    "lat":40.688036,
+    "lon":-7.905586,
+    "label":"Viseu (PT)"
+  },
+  {
+    "id":"PT011C",
+    "city":"Viana do Castelo",
+    "country_code":"PT",
+    "lat":41.717019,
+    "lon":-8.759368,
+    "label":"Viana do Castelo (PT)"
+  },
+  {
+    "id":"PT012C",
+    "city":"Paredes",
+    "country_code":"PT",
+    "lat":41.18152,
+    "lon":-8.396131,
+    "label":"Paredes (PT)"
+  },
+  {
+    "id":"PT013C",
+    "city":"Póvoa de Varzim",
+    "country_code":"PT",
+    "lat":41.412558,
+    "lon":-8.739459,
+    "label":"Póvoa de Varzim (PT)"
+  },
+  {
+    "id":"PT014C",
+    "city":"Sintra",
+    "country_code":"PT",
+    "lat":38.823031,
+    "lon":-9.357658,
+    "label":"Sintra (PT)"
+  },
+  {
+    "id":"PT015C",
+    "city":"Guimarães",
+    "country_code":"PT",
+    "lat":41.460832,
+    "lon":-8.315576,
+    "label":"Guimarães (PT)"
+  },
+  {
+    "id":"PT016C",
+    "city":"Vila Franca de Xira",
+    "country_code":"PT",
+    "lat":38.911091,
+    "lon":-9.04922,
+    "label":"Vila Franca de Xira (PT)"
+  },
+  {
+    "id":"RO001C",
+    "city":"București",
+    "country_code":"RO",
+    "lat":44.441476,
+    "lon":26.087791,
+    "label":"București (RO)"
+  },
+  {
+    "id":"RO002C",
+    "city":"Cluj-Napoca",
+    "country_code":"RO",
+    "lat":46.782759,
+    "lon":23.610233,
+    "label":"Cluj-Napoca (RO)"
+  },
+  {
+    "id":"RO003C",
+    "city":"Timișoara (greater city)",
+    "country_code":"RO",
+    "lat":45.753452,
+    "lon":21.229681,
+    "label":"Timișoara (greater city) (RO)"
+  },
+  {
+    "id":"RO004C",
+    "city":"Craiova",
+    "country_code":"RO",
+    "lat":44.324183,
+    "lon":23.806835,
+    "label":"Craiova (RO)"
+  },
+  {
+    "id":"RO005C",
+    "city":"Brăila",
+    "country_code":"RO",
+    "lat":45.276238,
+    "lon":27.959583,
+    "label":"Brăila (RO)"
+  },
+  {
+    "id":"RO006C",
+    "city":"Oradea",
+    "country_code":"RO",
+    "lat":47.066283,
+    "lon":21.91944,
+    "label":"Oradea (RO)"
+  },
+  {
+    "id":"RO007C",
+    "city":"Bacău",
+    "country_code":"RO",
+    "lat":46.564873,
+    "lon":26.908831,
+    "label":"Bacău (RO)"
+  },
+  {
+    "id":"RO008C",
+    "city":"Arad",
+    "country_code":"RO",
+    "lat":46.174624,
+    "lon":21.278308,
+    "label":"Arad (RO)"
+  },
+  {
+    "id":"RO009C",
+    "city":"Sibiu",
+    "country_code":"RO",
+    "lat":45.797518,
+    "lon":24.140504,
+    "label":"Sibiu (RO)"
+  },
+  {
+    "id":"RO010C",
+    "city":"Târgu Mureș",
+    "country_code":"RO",
+    "lat":46.541113,
+    "lon":24.556075,
+    "label":"Târgu Mureș (RO)"
+  },
+  {
+    "id":"RO011C",
+    "city":"Piatra-Neamț",
+    "country_code":"RO",
+    "lat":46.92159,
+    "lon":26.361988,
+    "label":"Piatra-Neamț (RO)"
+  },
+  {
+    "id":"RO012C",
+    "city":"Călărași",
+    "country_code":"RO",
+    "lat":44.203341,
+    "lon":27.331355,
+    "label":"Călărași (RO)"
+  },
+  {
+    "id":"RO015C",
+    "city":"Focșani",
+    "country_code":"RO",
+    "lat":45.696029,
+    "lon":27.204252,
+    "label":"Focșani (RO)"
+  },
+  {
+    "id":"RO016C",
+    "city":"Târgu Jiu",
+    "country_code":"RO",
+    "lat":45.044959,
+    "lon":23.291514,
+    "label":"Târgu Jiu (RO)"
+  },
+  {
+    "id":"RO017C",
+    "city":"Tulcea",
+    "country_code":"RO",
+    "lat":45.149795,
+    "lon":28.817494,
+    "label":"Tulcea (RO)"
+  },
+  {
+    "id":"RO018C",
+    "city":"Târgoviște",
+    "country_code":"RO",
+    "lat":44.919555,
+    "lon":25.438022,
+    "label":"Târgoviște (RO)"
+  },
+  {
+    "id":"RO019C",
+    "city":"Slatina",
+    "country_code":"RO",
+    "lat":44.433429,
+    "lon":24.379277,
+    "label":"Slatina (RO)"
+  },
+  {
+    "id":"RO022C",
+    "city":"Bistrița",
+    "country_code":"RO",
+    "lat":47.143719,
+    "lon":24.498924,
+    "label":"Bistrița (RO)"
+  },
+  {
+    "id":"RO023C",
+    "city":"Constanța",
+    "country_code":"RO",
+    "lat":44.183845,
+    "lon":28.598032,
+    "label":"Constanța (RO)"
+  },
+  {
+    "id":"RO024C",
+    "city":"Iași (greater city)",
+    "country_code":"RO",
+    "lat":47.161073,
+    "lon":27.578909,
+    "label":"Iași (greater city) (RO)"
+  },
+  {
+    "id":"RO025C",
+    "city":"Galați",
+    "country_code":"RO",
+    "lat":45.488127,
+    "lon":28.078391,
+    "label":"Galați (RO)"
+  },
+  {
+    "id":"RO026C",
+    "city":"Brașov",
+    "country_code":"RO",
+    "lat":45.637675,
+    "lon":25.581352,
+    "label":"Brașov (RO)"
+  },
+  {
+    "id":"RO027C",
+    "city":"Ploiești",
+    "country_code":"RO",
+    "lat":44.933908,
+    "lon":26.019512,
+    "label":"Ploiești (RO)"
+  },
+  {
+    "id":"RO028C",
+    "city":"Pitești",
+    "country_code":"RO",
+    "lat":44.855644,
+    "lon":24.859411,
+    "label":"Pitești (RO)"
+  },
+  {
+    "id":"RO029C",
+    "city":"Baia Mare",
+    "country_code":"RO",
+    "lat":47.739533,
+    "lon":23.607286,
+    "label":"Baia Mare (RO)"
+  },
+  {
+    "id":"RO030C",
+    "city":"Buzău",
+    "country_code":"RO",
+    "lat":45.138335,
+    "lon":26.815568,
+    "label":"Buzău (RO)"
+  },
+  {
+    "id":"RO031C",
+    "city":"Satu Mare",
+    "country_code":"RO",
+    "lat":47.782447,
+    "lon":22.842668,
+    "label":"Satu Mare (RO)"
+  },
+  {
+    "id":"RO032C",
+    "city":"Botoșani",
+    "country_code":"RO",
+    "lat":47.738475,
+    "lon":26.675956,
+    "label":"Botoșani (RO)"
+  },
+  {
+    "id":"RO033C",
+    "city":"Râmnicu Vâlcea",
+    "country_code":"RO",
+    "lat":45.103969,
+    "lon":24.354976,
+    "label":"Râmnicu Vâlcea (RO)"
+  },
+  {
+    "id":"RO035C",
+    "city":"Drobeta-Turnu Severin",
+    "country_code":"RO",
+    "lat":44.633261,
+    "lon":22.643838,
+    "label":"Drobeta-Turnu Severin (RO)"
+  },
+  {
+    "id":"RO036C",
+    "city":"Vaslui",
+    "country_code":"RO",
+    "lat":46.648951,
+    "lon":27.736061,
+    "label":"Vaslui (RO)"
+  },
+  {
+    "id":"RO037C",
+    "city":"Deva",
+    "country_code":"RO",
+    "lat":45.861679,
+    "lon":22.914095,
+    "label":"Deva (RO)"
+  },
+  {
+    "id":"SE001C",
+    "city":"Stockholm (greater city)",
+    "country_code":"SE",
+    "lat":59.329876,
+    "lon":18.017753,
+    "label":"Stockholm (greater city) (SE)"
+  },
+  {
+    "id":"SE002C",
+    "city":"Göteborg (greater city)",
+    "country_code":"SE",
+    "lat":57.640964,
+    "lon":11.988939,
+    "label":"Göteborg (greater city) (SE)"
+  },
+  {
+    "id":"SE003C",
+    "city":"Malmö",
+    "country_code":"SE",
+    "lat":55.565789,
+    "lon":13.019108,
+    "label":"Malmö (SE)"
+  },
+  {
+    "id":"SE005C",
+    "city":"Umeå",
+    "country_code":"SE",
+    "lat":63.941688,
+    "lon":20.195634,
+    "label":"Umeå (SE)"
+  },
+  {
+    "id":"SE006C",
+    "city":"Uppsala",
+    "country_code":"SE",
+    "lat":59.944869,
+    "lon":17.716293,
+    "label":"Uppsala (SE)"
+  },
+  {
+    "id":"SE007C",
+    "city":"Linköping",
+    "country_code":"SE",
+    "lat":58.371533,
+    "lon":15.598841,
+    "label":"Linköping (SE)"
+  },
+  {
+    "id":"SE008C",
+    "city":"Örebro",
+    "country_code":"SE",
+    "lat":59.317939,
+    "lon":15.280054,
+    "label":"Örebro (SE)"
+  },
+  {
+    "id":"SE009C",
+    "city":"Södertälje",
+    "country_code":"SE",
+    "lat":59.080538,
+    "lon":17.526409,
+    "label":"Södertälje (SE)"
+  },
+  {
+    "id":"SE010C",
+    "city":"Västerås",
+    "country_code":"SE",
+    "lat":59.628238,
+    "lon":16.567073,
+    "label":"Västerås (SE)"
+  },
+  {
+    "id":"SE011C",
+    "city":"Norrköping",
+    "country_code":"SE",
+    "lat":58.533487,
+    "lon":16.615975,
+    "label":"Norrköping (SE)"
+  },
+  {
+    "id":"SE012C",
+    "city":"Helsingborg",
+    "country_code":"SE",
+    "lat":56.065926,
+    "lon":12.786471,
+    "label":"Helsingborg (SE)"
+  },
+  {
+    "id":"SE013C",
+    "city":"Lund",
+    "country_code":"SE",
+    "lat":55.667877,
+    "lon":13.373143,
+    "label":"Lund (SE)"
+  }
+]

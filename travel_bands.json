@@ -1,0 +1,11 @@
+[
+  { "min_km": 400, "max_km": 600, "amount_eur": 340 },
+  { "min_km": 601, "max_km": 1600, "amount_eur": 365 },
+  { "min_km": 1601, "max_km": 2500, "amount_eur": 429 },
+  { "min_km": 2501, "max_km": 3500, "amount_eur": 541 },
+  { "min_km": 3501, "max_km": 4500, "amount_eur": 743 },
+  { "min_km": 4501, "max_km": 6000, "amount_eur": 857 },
+  { "min_km": 6001, "max_km": 7500, "amount_eur": 1021 },
+  { "min_km": 7501, "max_km": 10000, "amount_eur": 1250 },
+  { "min_km": 10001, "max_km": null, "amount_eur": 1595 }
+]
