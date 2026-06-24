@@ -1,8 +1,10 @@
-let cities = [];
+let nutsHierarchy = [];
 let travelBands = [];
 let countryRates = {};
 
-const STAFF_COST_PER_PERSON = 350;
+// ---------------------------
+// Helpers
+// ---------------------------
 
 function showResult(html, isError = false) {
   const resultDiv = document.getElementById("result");
@@ -30,31 +32,6 @@ function normalizeCountryCode(code) {
   return upper;
 }
 
-function getCityName(city) {
-  return city.city || city.URAU_NAME || city.name || "Unknown city";
-}
-
-function getCountryCode(city) {
-  return normalizeCountryCode(
-    city.country_code || city.CNTR_CODE || city.country || ""
-  );
-}
-
-function getLatitude(city) {
-  return toNumber(city.lat ?? city.latitude ?? city.y);
-}
-
-function getLongitude(city) {
-  return toNumber(city.lon ?? city.lng ?? city.longitude ?? city.x);
-}
-
-function getCityLabel(city) {
-  if (city.label) return city.label;
-  const cityName = getCityName(city);
-  const cc = getCountryCode(city);
-  return cc ? `${cityName} (${cc})` : cityName;
-}
-
 function haversineKm(lat1, lon1, lat2, lon2) {
   const R = 6371;
   const toRad = deg => deg * Math.PI / 180;
@@ -80,15 +57,19 @@ async function loadJson(path) {
   return response.json();
 }
 
+// ---------------------------
+// Data loading
+// ---------------------------
+
 async function loadData() {
   try {
-    const [citiesData, travelBandsData, countryRatesData] = await Promise.all([
-      loadJson("./citiesua_eurostats_sample.json"),
+    const [nutsData, travelBandsData, countryRatesData] = await Promise.all([
+      loadJson("./nuts_hierarchy_eu_2024.json"),
       loadJson("./travel_bands.json"),
       loadJson("./country_rates.json")
     ]);
 
-    cities = citiesData;
+    nutsHierarchy = nutsData;
     travelBands = travelBandsData;
 
     countryRates = Object.fromEntries(
@@ -98,41 +79,141 @@ async function loadData() {
       ])
     );
 
-    populateCitySelects();
+    populateCountrySelect("origin");
+    populateCountrySelect("destination");
   } catch (error) {
     console.error(error);
     showResult(
       `Could not load one or more JSON files.<br>
        Check that these files exist in the same folder as index.html:<br>
-       <strong>citiesua_eurostats_sample.json</strong>, 
-       <strong>travel_bands.json</strong>, 
+       <strong>nuts_hierarchy_eu_2024.json</strong>,
+       <strong>travel_bands.json</strong>,
        <strong>country_rates.json</strong>`,
       true
     );
   }
 }
 
-function populateCitySelects() {
-  const originSelect = document.getElementById("origin");
-  const destinationSelect = document.getElementById("destination");
+// ---------------------------
+// Cascading dropdowns
+// ---------------------------
 
-  originSelect.innerHTML = '<option value="">Select origin</option>';
-  destinationSelect.innerHTML = '<option value="">Select destination</option>';
-
-  cities.forEach((city, index) => {
-    const label = getCityLabel(city);
-
-    const option1 = document.createElement("option");
-    option1.value = index;
-    option1.textContent = label;
-    originSelect.appendChild(option1);
-
-    const option2 = document.createElement("option");
-    option2.value = index;
-    option2.textContent = label;
-    destinationSelect.appendChild(option2);
-  });
+function getCountryData(countryCode) {
+  return nutsHierarchy.find(
+    item => normalizeCountryCode(item.country_code) === normalizeCountryCode(countryCode)
+  );
 }
+
+function populateCountrySelect(prefix) {
+  const select = document.getElementById(`${prefix}Country`);
+  select.innerHTML = '<option value="">Select country</option>';
+
+  nutsHierarchy.forEach(country => {
+    const option = document.createElement("option");
+    option.value = country.country_code;
+    option.textContent = country.country_name;
+    select.appendChild(option);
+  });
+
+  resetNuts2(prefix, "Select country first");
+  resetNuts3(prefix, "Select NUTS 2 first");
+}
+
+function resetNuts2(prefix, message) {
+  const select = document.getElementById(`${prefix}Nuts2`);
+  select.innerHTML = `<option value="">${message}</option>`;
+  select.disabled = true;
+}
+
+function resetNuts3(prefix, message) {
+  const select = document.getElementById(`${prefix}Nuts3`);
+  select.innerHTML = `<option value="">${message}</option>`;
+  select.disabled = true;
+}
+
+function onCountryChange(prefix) {
+  const countryCode = document.getElementById(`${prefix}Country`).value;
+  const nuts2Select = document.getElementById(`${prefix}Nuts2`);
+
+  resetNuts3(prefix, "Select NUTS 2 first");
+
+  if (!countryCode) {
+    resetNuts2(prefix, "Select country first");
+    return;
+  }
+
+  const country = getCountryData(countryCode);
+  if (!country) {
+    resetNuts2(prefix, "No NUTS 2 found");
+    return;
+  }
+
+  nuts2Select.innerHTML = '<option value="">Select NUTS 2</option>';
+  country.nuts2.forEach(n2 => {
+    const option = document.createElement("option");
+    option.value = n2.nuts2_code;
+    option.textContent = `${n2.nuts2_name} (${n2.nuts2_code})`;
+    nuts2Select.appendChild(option);
+  });
+  nuts2Select.disabled = false;
+}
+
+function onNuts2Change(prefix) {
+  const countryCode = document.getElementById(`${prefix}Country`).value;
+  const nuts2Code = document.getElementById(`${prefix}Nuts2`).value;
+  const nuts3Select = document.getElementById(`${prefix}Nuts3`);
+
+  if (!countryCode || !nuts2Code) {
+    resetNuts3(prefix, "Select NUTS 2 first");
+    return;
+  }
+
+  const country = getCountryData(countryCode);
+  const nuts2 = country?.nuts2.find(item => item.nuts2_code === nuts2Code);
+
+  if (!nuts2 || !nuts2.nuts3?.length) {
+    resetNuts3(prefix, "No NUTS 3 found");
+    return;
+  }
+
+  nuts3Select.innerHTML = '<option value="">Select NUTS 3</option>';
+  nuts2.nuts3.forEach(n3 => {
+    const option = document.createElement("option");
+    option.value = n3.nuts3_code;
+    option.textContent = `${n3.nuts3_name} (${n3.nuts3_code})`;
+    nuts3Select.appendChild(option);
+  });
+  nuts3Select.disabled = false;
+}
+
+function getSelectedNuts3(prefix) {
+  const countryCode = document.getElementById(`${prefix}Country`).value;
+  const nuts2Code = document.getElementById(`${prefix}Nuts2`).value;
+  const nuts3Code = document.getElementById(`${prefix}Nuts3`).value;
+
+  if (!countryCode || !nuts2Code || !nuts3Code) return null;
+
+  const country = getCountryData(countryCode);
+  const nuts2 = country?.nuts2.find(item => item.nuts2_code === nuts2Code);
+  const nuts3 = nuts2?.nuts3.find(item => item.nuts3_code === nuts3Code);
+
+  if (!country || !nuts2 || !nuts3) return null;
+
+  return {
+    country_code: country.country_code,
+    country_name: country.country_name,
+    nuts2_code: nuts2.nuts2_code,
+    nuts2_name: nuts2.nuts2_name,
+    nuts3_code: nuts3.nuts3_code,
+    nuts3_name: nuts3.nuts3_name,
+    lat: toNumber(nuts3.lat),
+    lon: toNumber(nuts3.lon)
+  };
+}
+
+// ---------------------------
+// Travel rules
+// ---------------------------
 
 function findGenericTravelBand(distanceKm) {
   return travelBands.find(band => {
@@ -143,7 +224,7 @@ function findGenericTravelBand(distanceKm) {
 }
 
 function getTravelRule(distanceKm, destinationCountryCode, isDomestic) {
-  const country = countryRates[destinationCountryCode];
+  const country = countryRates[normalizeCountryCode(destinationCountryCode)];
 
   if (!country) {
     return {
@@ -183,7 +264,7 @@ function getTravelRule(distanceKm, destinationCountryCode, isDomestic) {
   if (!genericBand) {
     return {
       amount: 0,
-      rule: "No travel band found"
+      rule: "No travel amount found for this distance"
     };
   }
 
@@ -191,82 +272,60 @@ function getTravelRule(distanceKm, destinationCountryCode, isDomestic) {
 
   return {
     amount: toNumber(genericBand.amount_eur),
-    rule: `Generic return trip (${genericBand.min_km}-${maxLabel} km)`
+    rule: `${genericBand.min_km}-${maxLabel} km`
   };
 }
 
-function calculateReimbursement() {
-  const originIndex = document.getElementById("origin").value;
-  const destinationIndex = document.getElementById("destination").value;
-  const persons = toNumber(document.getElementById("persons").value);
-  const days = toNumber(document.getElementById("days").value);
+// ---------------------------
+// Main calculation
+// ---------------------------
 
-  if (originIndex === "" || destinationIndex === "") {
-    showResult("Please select both cities.", true);
+function calculateTravelAmount() {
+  const origin = getSelectedNuts3("origin");
+  const destination = getSelectedNuts3("destination");
+
+  if (!origin || !destination) {
+    showResult("Please select country, NUTS 2, and NUTS 3 for both origin and destination.", true);
     return;
   }
 
-  if (persons < 1) {
-    showResult("Please enter a valid number of persons.", true);
-    return;
-  }
-
-  if (days < 1) {
-    showResult("Please enter a valid number of days.", true);
-    return;
-  }
-
-  const origin = cities[Number(originIndex)];
-  const destination = cities[Number(destinationIndex)];
-
-  const originLat = getLatitude(origin);
-  const originLon = getLongitude(origin);
-  const destLat = getLatitude(destination);
-  const destLon = getLongitude(destination);
-
-  const originCountryCode = getCountryCode(origin);
-  const destinationCountryCode = getCountryCode(destination);
-
-  if (!originCountryCode || !destinationCountryCode) {
-    showResult("Country code missing in one of the selected cities.", true);
-    return;
-  }
-
-  const destinationRates = countryRates[destinationCountryCode];
+  const destinationRates = countryRates[normalizeCountryCode(destination.country_code)];
 
   if (!destinationRates) {
-    showResult(`No country rates found for destination country: ${destinationCountryCode}`, true);
+    showResult(`No country rates found for destination country: ${destination.country_code}`, true);
     return;
   }
 
-  const distanceKm = haversineKm(originLat, originLon, destLat, destLon);
-  const isDomestic = originCountryCode === destinationCountryCode;
-
-  const travelRule = getTravelRule(distanceKm, destinationCountryCode, isDomestic);
-
-  const staffCost = persons * STAFF_COST_PER_PERSON;
-  const travelCost = travelRule.amount * persons;
-  const perDiem = persons * days * toNumber(destinationRates.per_diem);
-  const total = staffCost + travelCost + perDiem;
+  const distanceKm = haversineKm(origin.lat, origin.lon, destination.lat, destination.lon);
+  const isDomestic = normalizeCountryCode(origin.country_code) === normalizeCountryCode(destination.country_code);
+  const travelRule = getTravelRule(distanceKm, destination.country_code, isDomestic);
 
   showResult(`
-    <div class="section-title">Trip details</div>
-    <div><strong>Route:</strong> ${getCityLabel(origin)} → ${getCityLabel(destination)}</div>
+    <div class="section-title">Travel details</div>
+    <div><strong>Origin:</strong> ${origin.nuts3_name} (${origin.nuts3_code}), ${origin.nuts2_name}, ${origin.country_name}</div>
+    <div><strong>Destination:</strong> ${destination.nuts3_name} (${destination.nuts3_code}), ${destination.nuts2_name}, ${destination.country_name}</div>
     <div><strong>Distance:</strong> ${distanceKm.toFixed(2)} km</div>
-    <div><strong>Persons:</strong> ${persons}</div>
-    <div><strong>Days:</strong> ${days}</div>
-    <div><strong>Country used for rates:</strong> ${destinationRates.country}</div>
-    <div><strong>Travel rule used:</strong> ${travelRule.rule}</div>
+    <div><strong>Asssociated travel band:</strong> ${travelRule.rule}</div>
 
-    <div class="section-title">Cost breakdown</div>
-    <div>Staff cost = ${persons} × ${formatEuro(STAFF_COST_PER_PERSON)} = <strong>${formatEuro(staffCost)}</strong></div>
-    <div>Travel cost = ${persons} × ${formatEuro(travelRule.amount)} = <strong>${formatEuro(travelCost)}</strong></div>
-    <div>Per diem = ${persons} × ${days} × ${formatEuro(destinationRates.per_diem)} = <strong>${formatEuro(perDiem)}</strong></div>
+    <div class="section-title">Reimbursement for travel cost</div>
+    <div class="total">${formatEuro(travelRule.amount)}</div>
 
-    <div class="section-title">Total</div>
-    <div class="total">${formatEuro(total)}</div>
+    <div class="muted" style="margin-top: 12px;">
+      Calculated for 1 participant.
+    </div>
   `);
 }
 
-document.getElementById("calculateBtn").addEventListener("click", calculateReimbursement);
+// ---------------------------
+// Events
+// ---------------------------
+
+document.getElementById("originCountry").addEventListener("change", () => onCountryChange("origin"));
+document.getElementById("originNuts2").addEventListener("change", () => onNuts2Change("origin"));
+
+document.getElementById("destinationCountry").addEventListener("change", () => onCountryChange("destination"));
+document.getElementById("destinationNuts2").addEventListener("change", () => onNuts2Change("destination"));
+
+document.getElementById("calculateBtn").addEventListener("click", calculateTravelAmount);
+
 loadData();

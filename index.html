@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Travel reimbursement calculator</title>
+  <title>NUTS 3 Travel Distance Calculator</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -14,7 +14,7 @@
     }
 
     .card {
-      max-width: 950px;
+      max-width: 1100px;
       margin: 0 auto;
       background: #fff;
       border-radius: 14px;
@@ -32,11 +32,20 @@
       color: #555;
     }
 
+    .section {
+      margin-top: 24px;
+      padding-top: 8px;
+    }
+
+    .section h2 {
+      margin-bottom: 12px;
+      font-size: 20px;
+    }
+
     .grid {
       display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 16px;
-      margin-top: 20px;
+      grid-template-columns: 1fr 1fr 1fr;
+      gap: 16px 24px;
     }
 
     .field {
@@ -45,26 +54,27 @@
       gap: 8px;
     }
 
-    .field.full {
-      grid-column: 1 / -1;
-    }
-
     label {
       font-weight: 700;
     }
 
     select,
-    input,
     button {
       padding: 12px;
       font-size: 16px;
       border: 1px solid #cfcfcf;
       border-radius: 8px;
       box-sizing: border-box;
+      width: 100%;
+    }
+
+    select:disabled {
+      background: #f1f1f1;
+      color: #777;
     }
 
     button {
-      margin-top: 20px;
+      margin-top: 24px;
       cursor: pointer;
       font-weight: 700;
     }
@@ -91,7 +101,7 @@
     }
 
     .total {
-      font-size: 22px;
+      font-size: 24px;
       font-weight: 700;
     }
 
@@ -100,7 +110,7 @@
       font-size: 14px;
     }
 
-    @media (max-width: 760px) {
+    @media (max-width: 900px) {
       .grid {
         grid-template-columns: 1fr;
       }
@@ -109,38 +119,65 @@
 </head>
 <body>
   <div class="card">
-    <h1>Travel Reimbursement Calculator</h1>
+    <h1>NUTS 3 Travel Distance Calculator</h1>
     <p class="intro">
-      Select origin and destination cities, then enter the number of persons and days.
+      Select origin and destination NUTS 3 regions. The calculator returns the travel distance
+      and the associated travel amount for 1 participant.
     </p>
 
-    <div class="grid">
-      <div class="field">
-        <label for="origin">City of origin</label>
-        <select id="origin">
-          <option value="">Loading cities...</option>
-        </select>
-      </div>
+    <div class="section">
+      <h2>Origin</h2>
+      <div class="grid">
+        <div class="field">
+          <label for="originCountry">Country of origin</label>
+          <select id="originCountry">
+            <option value="">Loading countries...</option>
+          </select>
+        </div>
 
-      <div class="field">
-        <label for="destination">City of destination</label>
-        <select id="destination">
-          <option value="">Loading cities...</option>
-        </select>
-      </div>
+        <div class="field">
+          <label for="originNuts2">NUTS 2 of origin</label>
+          <select id="originNuts2" disabled>
+            <option value="">Select country first</option>
+          </select>
+        </div>
 
-      <div class="field">
-        <label for="persons">Number of persons</label>
-        <input id="persons" type="number" min="1" value="1" />
-      </div>
-
-      <div class="field">
-        <label for="days">Number of days</label>
-        <input id="days" type="number" min="1" value="1" />
+        <div class="field">
+          <label for="originNuts3">NUTS 3 of origin</label>
+          <select id="originNuts3" disabled>
+            <option value="">Select NUTS 2 first</option>
+          </select>
+        </div>
       </div>
     </div>
 
-    <button id="calculateBtn">Calculate reimbursement</button>
+    <div class="section">
+      <h2>Destination</h2>
+      <div class="grid">
+        <div class="field">
+          <label for="destinationCountry">Country of destination</label>
+          <select id="destinationCountry">
+            <option value="">Loading countries...</option>
+          </select>
+        </div>
+
+        <div class="field">
+          <label for="destinationNuts2">NUTS 2 of destination</label>
+          <select id="destinationNuts2" disabled>
+            <option value="">Select country first</option>
+          </select>
+        </div>
+
+        <div class="field">
+          <label for="destinationNuts3">NUTS 3 of destination</label>
+          <select id="destinationNuts3" disabled>
+            <option value="">Select NUTS 2 first</option>
+          </select>
+        </div>
+      </div>
+    </div>
+
+    <button id="calculateBtn">Calculate travel distance and amount</button>
 
     <div id="result" class="result"></div>
   </div>
